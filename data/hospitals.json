@@ -1,0 +1,32 @@
+[
+  {
+    "id": "hosp_001",
+    "name": "Apollo Hospital",
+    "cityId": "city_001",
+    "address": "Sarita Vihar, New Delhi - 110076",
+    "phone": "+91-11-26825000",
+    "email": "info@apollohospitals.com",
+    "description": "Leading multi-specialty hospital with world-class facilities",
+    "image": "assets/images/hospital/apollo.jpg"
+  },
+  {
+    "id": "hosp_002",
+    "name": "Fortis Hospital",
+    "cityId": "city_001",
+    "address": "Sector 62, Noida - 201301",
+    "phone": "+91-120-6644444",
+    "email": "info@fortishealthcare.com",
+    "description": "Advanced healthcare with international standards",
+    "image": "assets/images/hospital/fortis.jpg"
+  },
+  {
+    "id": "hosp_003",
+    "name": "CARE Hospitals",
+    "cityId": "city_002",
+    "address": "Road No 1, Banjara Hills, Hyderabad - 500034",
+    "phone": "+91-40-61656565",
+    "email": "info@carehospitals.com",
+    "description": "Comprehensive healthcare services",
+    "image": "assets/images/hospital/care.jpg"
+  }
+]

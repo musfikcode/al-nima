@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" type="image/x-icon" href="assets/images/fav.png">
+    <title>Find Hospitals - Medical & Health Care</title>
+    <meta name="description" content="Find the best hospitals in Delhi, Gurugram, and Noida. Search by specialty, location, and services.">
+    <link rel="stylesheet" href="assets/css/plugins/plugins.css">
+    <link rel="stylesheet" href="assets/css/plugins/magnifying-popup.css">
+    <link rel="stylesheet" href="assets/css/vendor/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/hospitals.css">
+</head>
+<body class="loaded">
+            <header class="header-one header--sticky">
+        <div class="header-top-area">
+            <div class="container-full-header">
+                <div class="col-lg-12">
+                    <div class="header-top">
+                        <div class="left">
+                            <div class="map-area">
+                                <i class="fa-sharp fa-regular fa-location-dot"></i>
+                                <a href="#">N'Djamena – Chad, Shaheen Bagh, New Delhi – India</a>
+                            </div>
+                            <div class="map-area">
+                                <i class="fa-light fa-clock"></i>
+                                <a href="#">24/7 Emergency Services Available</a>
+                            </div>
+                        </div>
+                        <div class="right">
+                            <div class="map-area">
+                                <i class="fa-regular fa-phone"></i>
+                                <a href="#">Emergency Line: +91 92171 50972</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container-full-header">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="header-wrapper-1">
+                        <div class="logo-area-start">
+                            <a href="index.html" class="logo">
+                                <img src="assets/images/logo/logo.png" alt="logo_area">
+                            </a>
+                            <div class="nav-area">
+                                <ul class="">
+                                    <li class="main-nav">
+                                        <a href="index.html">Home</a>
+                                    </li>
+                                    <li class="main-nav">
+                                        <a href="hospitals.html">Hospitals</a>
+                                    </li>
+                                    <li class="main-nav">
+                                        <a href="services.html">Services</a>
+                                    </li>
+                                    <li class="main-nav">
+                                        <a href="about.html">About</a>
+                                    </li>
+                                    <li class="main-nav">
+                                        <a href="contactus.html">Contact</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="header-right">
+                            <a href="appoinment.html" class="rts-btn btn-primary">Book Appointment</a>
+                            <div class="menu-btn" id="menu-btn">
+                                <svg width="20" height="16" viewBox="0 0 20 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <rect y="14" width="20" height="2" fill="#1F1F25"></rect>
+                                    <rect y="7" width="20" height="2" fill="#1F1F25"></rect>
+                                    <rect width="20" height="2" fill="#1F1F25"></rect>
+                                </svg>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="rts-breadcrumb-area">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="breadcrumb-inner">
+                        <h1 class="title">Find Hospitals</h1>
+                        <ul class="page-list">
+                            <li><a href="index.html">Home</a></li>
+                            <li class="active">Hospitals</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="rts-hospital-listing-area section-gap">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="hospital-filters">
+                        <div class="row">
+                            <div class="col-lg-4 col-md-6">
+                                <div class="filter-group">
+                                    <label for="searchInput"><i class="fa-light fa-search"></i> Search Hospitals</label>
+                                    <input type="text" id="searchInput" placeholder="Search by name...">
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-6">
+                                <div class="filter-group">
+                                    <label for="cityFilter"><i class="fa-light fa-location-dot"></i> City</label>
+                                    <select id="cityFilter">
+                                        <option value="">All Cities</option>
+                                        <option value="Delhi">Delhi</option>
+                                        <option value="Gurugram">Gurugram</option>
+                                        <option value="Noida">Noida</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-6">
+                                <div class="filter-group">
+                                    <label for="departmentFilter"><i class="fa-light fa-hospital"></i> Department</label>
+                                    <select id="departmentFilter">
+                                        <option value="">All Departments</option>
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="results-count" id="resultsCount"></div>
+
+                    <div id="hospitalsList"></div>
+
+                    <div class="no-results" id="noResults" style="display: none;">
+                        <i class="fa-light fa-hospital" style="font-size: 60px; color: #ddd; margin-bottom: 20px;"></i>
+                        <h3>No hospitals found</h3>
+                        <p>Try adjusting your search filters</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- rts footer area start -->
+    <div class="rts-footer-area footer-bg pt--105 pt_sm--50">
+        <div class="container">
+            <div class="row">
+                
+                    <!-- subscribe area end -->
+                </div>
+                <div class="col-lg-12">
+                    <div class="footer-wrapper-style-between">
+                        <div class="single-wized">
+                            <h6 class="title">Contact</h6>
+                            <div class="body">
+                                <p class="location">
+                                    N'Djamena – Chad<br>
+                                    Shaheen Bagh, New Delhi – India
+                                </p>
+                                <a href="mailto:alnimaglobalhealthservices@gmail.com">alnimaglobalhealthservices@gmail.com</a>
+                                <a href="tel:+919217150972">+91 92171 50972</a>
+                                <a href="https://wa.me/23568500001">+235 6850 0001</a>
+                                <a href="https://wa.me/23567525245">+235 6752 5245</a>
+                            </div>
+                        </div>
+                        <div class="single-wized">
+                            <h6 class="title">Quick Links</h6>
+                            <div class="body">
+                                <ul class="nav-bottom">
+                                    <li><a href="index.html">Home</a></li>
+                                    <li><a href="hospitals.html">Hospitals</a></li>
+                                    <li><a href="services.html">Services</a></li>
+                                    <li><a href="about.html">About Us</a></li>
+                                    <li><a href="contactus.html">Contact</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="single-wized">
+                            <h6 class="title">Our Services</h6>
+                            <div class="body">
+                                <ul class="nav-bottom">
+                                    <li><a href="service-cardiology.html">Cardiology</a></li>
+                                    <li><a href="service-neurology.html">Neurology</a></li>
+                                    <li><a href="service-orthopedic-and-joint-replacement.html">Orthopedics</a></li>
+                                    <li><a href="service-oncology.html">Oncology</a></li>
+                                    <li><a href="service-urology-and-kidney-transplant.html">Urology</a></li>
+                                    <li><a href="services.html">View All Services</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="single-wized">
+                            <h6 class="title">Working Hours</h6>
+                            <div class="body">
+                                <p class="location">
+                                    24/7 Emergency Services
+                                </p>
+                                <p class="location">
+                                    Mon - Fri: 9:00 AM - 5:00 PM
+                                </p>
+                                <p class="location">
+                                    Saturday: 10:00 AM - 6:00 PM
+                                </p>
+                                <p class="location">
+                                    Sunday: Closed
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="copyright-area">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="copyright-area-inner">
+                        <p>© 2025 Al-Nima Global Health Services. All Rights Reserved by <a target="_blank" href="https://al-nima.com">Al-Nima</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- rts footer area end -->
+
+    <script src="assets/js/vendor/jquery.min.js"></script>
+    <script src="assets/js/vendor/bootstrap.min.js"></script>
+    <script src="js/hospitals.js"></script>
+
+<!-- Google Translate Widget -->
+<div id="google_translate_element" style="position: fixed; bottom: 20px; right: 20px; z-index: 9999;"></div>
+<script type="text/javascript">
+  function googleTranslateElementInit() {
+    new google.translate.TranslateElement({
+      pageLanguage: 'en',
+      layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+    }, 'google_translate_element');
+  }
+</script>
+<script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+</body>
+</html>

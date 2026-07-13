@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'Rubik';
+  font-style: italic;
+  font-weight: 300 900;
+  font-display: swap;
+  src: url(../fonts.gstatic.com/s/rubik/v31/ijwebxyifdniv7nerxyw023e.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 300 900;
+  font-display: swap;
+  src: url(../fonts.gstatic.com/s/rubik/v31/iJWKBXyIfDnIV4nDp3uS0Q.woff2) format('woff2');
+}

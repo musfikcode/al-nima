@@ -1,0 +1,1274 @@
+[
+  {
+    "id": "apollo-hospital-new-delhi",
+    "name": "Apollo Hospital New Delhi",
+    "city": "Delhi",
+    "beds": "710",
+    "established": "1983",
+    "type": "Multispeciality Hospital",
+    "description": "The hospital boasts state-of-the-art medical technology, including advanced imaging",
+    "about": "The hospital boasts state-of-the-art medical technology, including advanced imaging systems, robotic surgery units, and tools for minimally invasive procedures. These innovations allow for precise diagnostics and highly effective treatments across various specialties. Established in 1983 by Dr. Prathap C. Reddy, Apollo Hospitals was instrumental in introducing the corporate healthcare model to India, playing a pivotal role in modernizing and expanding private healthcare across the nation. Apollo Hospitals has grown into a premier integrated healthcare provider in Asia, with a vast network that includes hospitals, pharmacies, primary care and diagnostic clinics, as well as various retail health services. The Group extends its reach globally with telemedicine services, health insurance solutions, consultancy, and educational programs through Medvarsity, offering courses in nursing, hospital management, and more. Complementing its clinical services are initiatives like ‘ASK Apollo’ for online consultations and Apollo Home Health for continuous care, ensuring a holistic approach to patient well-being and healthcare accessibility. Apollo Hospitals’ legacy is defined by a commitment to clinical excellence, affordable care, and the integration of cutting-edge technology. As a trailblazer in healthcare, Apollo has consistently introduced advanced medical technologies to India, setting new benchmarks in patient care. Notably, the Apollo Proton Cancer Centre in Chennai represents a major milestone, being the first of its kind in Southeast Asia. This facility offers state-of-the-art proton therapy, solidifying Apollo's leadership in specialized cancer treatment and reinforcing its mission to provide world-class healthcare solutions.",
+    "departments": [
+      "Cardiology",
+      "Orthopedic & Joint Replacement",
+      "Neurology",
+      "Oncology",
+      "Spine & Scoliosis Surgery",
+      "Paediatric Cardiac Care",
+      "Urology & Kidney Transplant",
+      "Liver Transplant & GI & HPB Surgery",
+      "Cardiac Thoracic & Vascular Surgery",
+      "Surgical Oncology",
+      "Gynaecological Oncology",
+      "Neuro Surgery",
+      "Nephrology"
+    ],
+    "address": "Indraprastha Apollo Hospital, NH-19, Jasola, New Delhi, Delhi, India",
+    "teamInfo": "Apollo Hospital, New Delhi, stands as a hub for specialized care in fields such as cardiology, oncology, neurology, orthopedics, gastroenterology, and organ transplantation. The hospital’s dedicated centers are equipped with cutting-edge technology and are managed by top specialists who collaborate within multidisciplinary teams. With a strong emphasis on patient-centric care, Apollo Hospital ensures that each patient receives a personalized treatment plan tailored to their unique medical requirements, reinforcing its commitment to delivering the The specialized centers at Apollo Hospital are focused on providing advanced healthcare solutions across multiple medical fields. Equipped with state-of-the-art facilities and led by highly experienced doctors, the hospital adopts a comprehensive approach to patient care. By integrating innovative techniques with compassionate service, Apollo delivers a seamless experience, from routine check-ups to complex surgeries. As a trusted name in healthcare, Apollo Hospital continues to set benchmarks for world-class medical services in New Delhi.",
+    "infrastructure": "Apollo Hospital, New Delhi, offers a wide array of services designed to meet the diverse healthcare needs of its patients. These include preventive health checks, detailed diagnostic evaluations, outpatient and inpatient care, emergency services, and specialized rehabilitation programs. The hospital’s integrated care model ensures that patients receive consistent and comprehensive treatment, from the initial diagnosis to complete recovery, all within a single, convenient location. Apollo Hospital, New Delhi, emphasizes a holistic approach to healthcare, ensuring that every stage of a patient’s journey is met with personalized attention and care. The hospital’s seamless coordination across various specialties allows for the efficient management of complex medical conditions, delivering comprehensive and integrated care. This patient-centric focus has established Apollo Hospital as a trusted healthcare destination in New Delhi, offering tailored solutions that prioritize each patient’s unique",
+    "facilities": {
+      "comfort": [
+        "TV in Room",
+        "Private Rooms",
+        "Free Wifi",
+        "Phone in Room",
+        "Mobility Accessible Rooms",
+        "Family Accommodation"
+      ],
+      "money": [
+        "Health Insurance Coordination",
+        "Medical Travel Insurance",
+        "Foreign Currency Exchange",
+        "ATM",
+        "Credit Card",
+        "Debit Card",
+        "Netbanking"
+      ],
+      "food": [
+        "Diet on Request",
+        "Restaurant",
+        "International Cuisine"
+      ],
+      "treatment": [
+        "Online Doctor Consultation",
+        "Rehabilitation",
+        "Pharmacy",
+        "Document Legalisation",
+        "Post Operative Followup"
+      ]
+    }
+  },
+  {
+    "id": "blk-max-super-speciality-hospital-new-delhi",
+    "name": "BLK-Max Super Speciality Hospital New Delhi",
+    "city": "Delhi",
+    "beds": "650",
+    "established": "1959",
+    "type": "BLK-Max Super Speciality Hospital is an integral part of India's largest healthcare network.",
+    "description": "BLK-Max Super Speciality Hospital was established in 1959 by the eminent Obstetrician",
+    "about": "BLK-Max Super Speciality Hospital was established in 1959 by the eminent Obstetrician and Gynaecologist, Dr. B.L. Kapur, and was inaugurated by then Prime Minister of India, Pandit Jawahar Lal Nehru. The hospital is both NABH and NABL accredited, reflecting its commitment to quality healthcare standards. With 17 state-of-the-art modular operation theatres and a capacity of 650 beds, the hospital stands out for its advanced infrastructure. BLK-Max Super Speciality Hospital is also the first in the NCR region to implement an automatic pneumatic chute system, enhancing healthcare efficiency and patient care.",
+    "departments": [
+      "Cardiology",
+      "Orthopedic & Joint Replacement",
+      "Neurology",
+      "Haemato Oncology & BMT",
+      "Oncology",
+      "Spine & Scoliosis Surgery",
+      "Paediatric Cardiac Care",
+      "Opthamology",
+      "Urology & Kidney Transplant",
+      "Liver Transplant & GI & HPB Surgery",
+      "Nephrology"
+    ],
+    "address": "Pusa Rd, Radha Soami Satsang, Rajendra Place, New Delhi, Delhi 110005, India",
+    "teamInfo": "BLK-Max Super Speciality Hospital boasts a team of over 150 senior specialists, each dedicated to their respective departments and specialties. Among them are some of the finest cancer doctors in India, ensuring top-notch care for patients battling cancer. Additionally, the hospital houses a dedicated unit for Emergency and Acute Care Medicine, staffed by trained Emergency Physicians and Nurses. This unit ensures prompt diagnosis, evaluation, and treatment of life-threatening medical conditions, prioritizing the well-being and safety of patients at all times.",
+    "infrastructure": "BLK-Max Super Speciality Hospital prioritizes patient safety with its modular operation theatres, featuring a three-stage air filtration and gas scavenging system. This ensures optimal air quality and safety during surgical procedures. The hospital also offers specialized birthing suites equipped with telemetric foetal monitors, facilitating the monitoring of labor progression. To ensure patient comfort and support, accommodation facilities are provided for the patient's family, allowing them to stay close during the treatment journey. Furthermore, the hospital adopts electronic medical records (EMR) with remote accessibility, enabling consultations for distant patients. This innovative approach enhances accessibility to healthcare services and promotes seamless communication between patients and healthcare providers.",
+    "facilities": {
+      "comfort": [
+        "TV in Room",
+        "Private Rooms",
+        "Free Wifi",
+        "Phone in Room",
+        "Mobility Accessible Rooms",
+        "Family Accommodation"
+      ],
+      "money": [
+        "Health Insurance Coordination",
+        "Medical Travel Insurance",
+        "Foreign Currency Exchange",
+        "ATM",
+        "Credit Card",
+        "Debit Card",
+        "Netbanking"
+      ],
+      "food": [
+        "Diet on Request",
+        "Restaurant",
+        "International Cuisine"
+      ],
+      "treatment": [
+        "Online Doctor Consultation",
+        "Rehabilitation",
+        "Pharmacy",
+        "Document Legalisation",
+        "Post Operative Followup"
+      ]
+    }
+  },
+  {
+    "id": "centre-for-sight-safdarjung-new-delhi",
+    "name": "Centre for Sight, Safdarjung, New Delhi",
+    "city": "Delhi",
+    "beds": "0",
+    "established": "1996",
+    "type": "Multispeciality Hospital",
+    "description": "Founded in 1996 by Prof. Dr. Mahipal S. Sachdev, Centre for Sight has been dedicated",
+    "about": "Founded in 1996 by Prof. Dr. Mahipal S. Sachdev, Centre for Sight has been dedicated to eliminating preventable blindness in India by providing top-tier eye care. Utilizing state-of-the-art technology and a team of expert professionals, we have established ourselves as leaders in the field of ophthalmology. Our esteemed team, which includes over 350 highly skilled doctors from prestigious institutions, ensures exceptional care. With a vast network of more than 80 eye care centers across the country, we are committed to making quality eye care accessible to everyone. Our Centre for Sight Eye Institute, located in Dwarka, Delhi, is North India’s largest private, comprehensive super-specialty eye institute, reflecting our dedication to clinical excellence. Registered under the Nursing Home Act in several states by the Directorate General of Health Services, we are trusted by public sector entities, corporations, and third-party administrators (TPAs). We combine advanced medical technologies with a patient-first philosophy to deliver cutting-edge solutions that prioritize patient health and comfort.",
+    "departments": [
+      "Opthamology"
+    ],
+    "address": "CENTRE FOR SIGHT GROUP OF EYE HOSPITALS | SAFDARJUNG ENCLAVE | NEW",
+    "teamInfo": "Equipped with cutting-edge technology and advanced facilities, Centre for Sight ensures high-quality yet affordable eye care services. The hospital follows a holistic approach in diagnosing and treating various vision-related issues. Specialties include LASIK surgery, cataract surgery, glaucoma treatment, retina and uvea services, pediatric ophthalmology, squint correction, cornea treatments, neuro-ophthalmology, oculoplasty, and ocular oncology. The hospital’s expert team comprises highly skilled doctors, dedicated nursing staff, and state-of-the-art resources, ensuring superior patient care and treatment",
+    "infrastructure": "As an NABH-accredited institution, we continue to reinforce our commitment to quality, helping individuals enhance their lives through superior eye care.",
+    "facilities": {
+      "comfort": [
+        "TV in Room",
+        "Private Rooms",
+        "Free Wifi",
+        "Phone in Room",
+        "Mobility Accessible Rooms",
+        "Family Accommodation"
+      ],
+      "money": [
+        "Health Insurance Coordination",
+        "Medical Travel Insurance",
+        "Foreign Currency Exchange",
+        "ATM",
+        "Credit Card",
+        "Debit Card",
+        "Netbanking"
+      ],
+      "food": [
+        "Diet on Request",
+        "Restaurant",
+        "International Cuisine"
+      ],
+      "treatment": [
+        "Online Doctor Consultation",
+        "Rehabilitation",
+        "Pharmacy",
+        "Document Legalisation",
+        "Post Operative Followup"
+      ]
+    }
+  },
+  {
+    "id": "fortis-escorts-heart-institute-new-delhi",
+    "name": "Fortis Escorts Heart Institute New Delhi",
+    "city": "Delhi",
+    "beds": "275",
+    "established": "1988",
+    "type": "Super Speciality Hospital",
+    "description": "Fortis Escorts Heart Institute has been a leader in cardiac care for over 25 years,",
+    "about": "Fortis Escorts Heart Institute has been a leader in cardiac care for over 25 years, especially in pediatric cardiology. Globally recognized as a center of excellence, it offers cutting-edge services in Cardiac Bypass Surgery, Interventional Cardiology, Non-invasive Cardiology, Pediatric Cardiology, and Pediatric Cardiac Surgery. The institute is equipped with advanced laboratories for comprehensive investigative tests across Nuclear Medicine, Radiology, Biochemistry, Hematology, Transfusion Medicine, and Microbiology, ensuring precise diagnostics and top-tier treatment. Fortis Escorts Heart Institute features a highly skilled team of doctors, backed by dedicated staff and cutting-edge technology, including the newly installed Dual CT Scan. With over 200 cardiac specialists and 1,600 employees, the hospital handles more than 14,500 admissions and 7,200 emergency cases annually. Its infrastructure includes 285 beds (maintaining a 100% occupancy rate), five Cath Labs, and a wide range of world-class facilities, ensuring comprehensive cardiac care.",
+    "departments": [
+      "Cardiology",
+      "Orthopedic & Joint Replacement",
+      "Neurology",
+      "Haemato Oncology & BMT",
+      "Paediatric Cardiac Care",
+      "Urology & Kidney Transplant",
+      "Liver Transplant & GI & HPB Surgery",
+      "Radiation Oncology",
+      "Dermatology & Cosmetology",
+      "IVF, Reproductive Medicine"
+    ],
+    "address": "FORTIS ESCORTS HEART INSTITUTE, Masihgarh, Okhla, New Delhi, Delhi, India",
+    "teamInfo": "Fortis Escorts Heart Institute is well-known for its cutting-edge facilities and advanced medical technologies. The hospital offers expertise in various cardiac treatments, including complex heart surgeries, interventional cardiology, electrophysiology, and pediatric cardiology, ensuring comprehensive and specialized care for patients. The team of highly skilled cardiologists, cardiac surgeons, and dedicated support staff at Fortis Escorts Heart Institute is committed to providing personalized care tailored to each patient's unique needs, ensuring the best possible outcomes in cardiac treatment.",
+    "infrastructure": "The new infrastructure at Fortis Escorts Heart Institute is designed to enhance patient comfort and convenience. It features spacious, well-appointed rooms equipped with modern amenities, creating a healing environment for patients and their families. The hospital also includes dedicated areas for patient counseling, family waiting lounges, and recreational spaces to support overall well-being.",
+    "facilities": {
+      "comfort": [
+        "TV in Room",
+        "Private Rooms",
+        "Free Wifi",
+        "Phone in Room",
+        "Mobility Accessible Rooms",
+        "Family Accommodation"
+      ],
+      "money": [
+        "Health Insurance Coordination",
+        "Medical Travel Insurance",
+        "Foreign Currency Exchange",
+        "ATM",
+        "Credit Card",
+        "Debit Card",
+        "Netbanking"
+      ],
+      "food": [
+        "Diet on Request",
+        "Restaurant",
+        "International Cuisine"
+      ],
+      "treatment": [
+        "Online Doctor Consultation",
+        "Rehabilitation",
+        "Pharmacy",
+        "Document Legalisation",
+        "Post Operative Followup"
+      ]
+    }
+  },
+  {
+    "id": "manipal-hospital-new-delhi",
+    "name": "Manipal Hospital New Delhi",
+    "city": "Delhi",
+    "beds": "650",
+    "established": "1991",
+    "type": "Multispeciality Hospital",
+    "description": "Manipal Hospitals is a distinguished hospital chain with a broad presence across India",
+    "about": "Manipal Hospitals is a distinguished hospital chain with a broad presence across India and internationally, known for its pioneering contributions to healthcare and medical education. Our legacy began in 1953 with the establishment of Kasturba Medical College in Manipal, Karnataka, by Dr. T.M.A. Pai. Officially founded in 1991 with our flagship 650-bed hospital on Old Airport Road, Bangalore, Manipal Hospitals has since grown into one of India’s leading healthcare providers, now offering over 9,500 beds Our core values at Manipal Hospitals center around a patient-first approach. Every doctor here is dedicated to providing exceptional care, driven by the belief that every life is invaluable. Through their commitment, we witness inspiring stories of resilience and determination. Explore these narratives with us, which reaffirm our belief in the power of",
+    "departments": [
+      "Cardiology",
+      "Orthopedic & Joint Replacement",
+      "Neurology",
+      "Oncology",
+      "Urology & Kidney Transplant",
+      "Liver Transplant & GI & HPB Surgery",
+      "Cardiac Thoracic & Vascular Surgery",
+      "Radiation Oncology",
+      "General & Minimally Invasive Surgery",
+      "Dentistry",
+      "Neurointerventional Surgery",
+      "Medical Oncology",
+      "Surgical Oncology",
+      "Paediatric Surgery"
+    ],
+    "address": "Manipal Hospital, Sector 6 Dwarka, Dwarka, Delhi, India",
+    "teamInfo": "Manipal Hospital, Dwarka, takes pride in its highly skilled team of doctors, surgeons, nurses, and support staff. Known for their expertise and dedication, the medical professionals provide compassionate care and prioritize patient well-being. Continuous training and professional development are integral to their approach, ensuring that the team remains abreast of the latest advancements in medical science and technology. This commitment to ongoing education enables them to deliver the highest standard of care and innovative treatment solutions.",
+    "infrastructure": "Manipal Hospital, Dwarka, boasts state-of-the-art infrastructure and cutting-edge medical technology. The facility is outfitted with advanced diagnostic and therapeutic equipment, including high-resolution imaging systems, robotic surgery units, and minimally invasive These modern amenities ensure accurate diagnostics and effective treatments across a broad range of medical specialties. By integrating the latest technology, the hospital provides patients with the highest standard of care and precise, efficient medical",
+    "facilities": {
+      "comfort": [
+        "TV in Room",
+        "Private Rooms",
+        "Free Wifi",
+        "Phone in Room",
+        "Mobility Accessible Rooms",
+        "Family Accommodation"
+      ],
+      "money": [
+        "Health Insurance Coordination",
+        "Medical Travel Insurance",
+        "Foreign Currency Exchange",
+        "ATM",
+        "Credit Card",
+        "Debit Card",
+        "Netbanking"
+      ],
+      "food": [
+        "Diet on Request",
+        "Restaurant",
+        "International Cuisine"
+      ],
+      "treatment": [
+        "Online Doctor Consultation",
+        "Rehabilitation",
+        "Pharmacy",
+        "Document Legalisation",
+        "Post Operative Followup"
+      ]
+    }
+  },
+  {
+    "id": "tab-1",
+    "name": "Tab 1",
+    "city": "Delhi",
+    "beds": "252",
+    "established": "1989",
+    "type": "Multispeciality Hospital",
+    "description": "Established in 2006, Max Super Speciality Hospital, Saket, stands as a leader in",
+    "about": "Established in 2006, Max Super Speciality Hospital, Saket, stands as a leader in healthcare excellence in New Delhi. Known for its steadfast dedication to patient safety and improving customer experiences, the hospital has been honored with prestigious awards such as the FICCI Healthcare Excellence Awards and the Express Healthcare Awards, recognizing its exceptional contribution to healthcare quality and innovation. Max Super Speciality Hospital has earned prestigious recognition, including the D L Shah National Award from the Quality Council of India for excellence in the 'Economics of Quality' and the distinction of being the first to receive the Global Green OT Accreditation, demonstrating its commitment to environmental responsibility. The hospital offers a broad spectrum of advanced medical services across numerous specialties, such as Cardiac Surgery, Aesthetic and Reconstructive Surgery, Cancer Care, Orthopedics, Pediatrics, Mental Health and Behavioral Sciences, Endocrinology, ENT, Neurosciences, Eye Care, Internal Medicine, and Minimal Access Surgery, ensuring patients receive top-tier, holistic care.",
+    "departments": [
+      "Cardiology",
+      "Orthopedic & Joint Replacement",
+      "Neurology",
+      "Haemato Oncology & BMT",
+      "Oncology",
+      "Spine & Scoliosis Surgery",
+      "Paediatric Cardiac Care",
+      "Opthamology",
+      "Urology & Kidney Transplant",
+      "Liver Transplant & GI & HPB Surgery"
+    ],
+    "address": "Mandir Marg, Neb Sarai, Block J, Saket, New Delhi, Delhi 110017, India",
+    "teamInfo": "Max Healthcare takes pride in its dedicated team of over 2,300 leading doctors, 3,300 nurses, and 3,200 trained professionals, all focused on delivering high-quality healthcare services. The hospital's Emergency Services are renowned for their efficiency, featuring a team of globally trained physicians who specialize in Emergency Medicine, ensuring rapid and expert care during critical moments. Max Super Speciality Hospital in Saket, New Delhi, stands out as a Center of Excellence for Bariatric Surgery under the Institute of Minimally Access, Metabolic & Bariatric Surgery. Additionally, it is recognized as a Center of Excellence for Hernia Surgery, reflecting its ongoing dedication to surgical excellence and patient care.",
+    "infrastructure": "Max Super Speciality Hospital in Saket is a 490-bed healthcare facility, with 230 operational beds available to accommodate a wide range of patient needs. The hospital features dedicated units, such as the Neonatal Intensive Care Unit (NICU) and Pediatric Intensive Care Unit (PICU), which provide specialized care for infants and children. In addition, the hospital houses a Dialysis Unit that adheres to international standards, delivering advanced hemodialysis treatment to patients with chronic kidney disease or those requiring renal replacement therapy.",
+    "facilities": {
+      "comfort": [
+        "TV in Room",
+        "Private Rooms",
+        "Free Wifi",
+        "Phone in Room",
+        "Mobility Accessible Rooms",
+        "Family Accommodation"
+      ],
+      "money": [
+        "Health Insurance Coordination",
+        "Medical Travel Insurance",
+        "Foreign Currency Exchange",
+        "ATM",
+        "Credit Card",
+        "Debit Card",
+        "Netbanking"
+      ],
+      "food": [
+        "Diet on Request",
+        "Restaurant",
+        "International Cuisine"
+      ],
+      "treatment": [
+        "Online Doctor Consultation",
+        "Rehabilitation",
+        "Pharmacy",
+        "Document Legalisation",
+        "Post Operative Followup"
+      ]
+    }
+  },
+  {
+    "id": "sharp-sight-eye-hospital-new-delhi",
+    "name": "Sharp Sight Eye Hospital New Delhi",
+    "city": "Delhi",
+    "beds": "0",
+    "established": "2002",
+    "type": "Multispeciality Hospital",
+    "description": "Sharp Sight Centre, a leading eye hospital in East Delhi, offers a comprehensive range",
+    "about": "Sharp Sight Centre, a leading eye hospital in East Delhi, offers a comprehensive range of eye care services under one roof. Established in 1998, the hospital is dedicated to providing compassionate and high-quality care to all patients. As a quality-driven institution, it holds NABH accreditation and is CGHS-approved, reflecting its commitment to excellence. Equipped with state-of-the-art diagnostic tools and advanced technology, the hospital ensures swift and complete recovery for its patients. Sharp Sight Centre offers the latest, minimally invasive eye treatments at affordable and cost-effective prices. The hospital also houses a dedicated pediatric eye department, led by top child eye specialists in Nirman Vihar, Delhi.",
+    "departments": [
+      "Opthamology"
+    ],
+    "address": "Sharp Sight Eye Hospital, Vikas Marg, opp. Preet Vihar, Block A, Swasthya Vihar, New Delhi,",
+    "teamInfo": "Sharp Sight has been at the forefront of eye care for over 22 years, committed to delivering world-class eye care services to all. With over 1 million satisfied patients and more than 500,000 successful surgeries and procedures, Sharp Sight has earned a reputation as a leading eye care provider in North India, boasting 16 state-of-the-art centers. As the first eye care institution to receive NABH accreditation, Sharp Sight is recognized for its adherence to international standards of quality clinical services. The hospital is empaneled with over 100 corporate organizations, all major health insurance companies, and several government panels such as CGHS, ECHS, DGEHS, offering seamless cashless treatment options. In recognition of its exceptional contributions to the field, Sharp Sight has been honored with accolades such as ‘Best Eye Care Provider’ by the Times of India and ‘Best Outreach Program’ in Ophthalmology by Business World. From complex eye conditions to pediatric ophthalmology, Sharp Sight's team of highly skilled ophthalmologists and dedicated clinical staff are equipped to handle any eye care issue. Constantly adopting cutting-edge technologies, Sharp Sight continues to innovate and enhance its offerings, ensuring that patients receive the best",
+    "infrastructure": "The hospital’s facilities include an OPD unit, optical outlet, pharmacy, emergency services, and a cafeteria. With cutting-edge operation theatres, well-equipped diagnostic labs, and a patient-friendly environment, Sharp Sight Centre stands as a premier destination for comprehensive eye care in East Delhi.",
+    "facilities": {
+      "comfort": [
+        "TV in Room",
+        "Private Rooms",
+        "Free Wifi",
+        "Phone in Room",
+        "Mobility Accessible Rooms",
+        "Family Accommodation"
+      ],
+      "money": [
+        "Health Insurance Coordination",
+        "Medical Travel Insurance",
+        "Foreign Currency Exchange",
+        "ATM",
+        "Credit Card",
+        "Debit Card",
+        "Netbanking"
+      ],
+      "food": [
+        "Diet on Request",
+        "Restaurant",
+        "International Cuisine"
+      ],
+      "treatment": [
+        "Online Doctor Consultation",
+        "Rehabilitation",
+        "Pharmacy",
+        "Document Legalisation",
+        "Post Operative Followup"
+      ]
+    }
+  },
+  {
+    "id": "the-sight-avenue-new-delhi",
+    "name": "The Sight Avenue New Delhi",
+    "city": "Delhi",
+    "beds": "10",
+    "established": "2011",
+    "type": "Multispeciality Hospital",
+    "description": "The Sight Avenue specializes in single-day procedures for treating various vision issues.",
+    "about": "The Sight Avenue specializes in single-day procedures for treating various vision issues. Their seasoned surgeons and dedicated healthcare staff provide personalized care, ensuring that every patient receives the highest standard of treatment. Understanding the importance of clear vision, The Sight Avenue is committed to delivering exceptional care at a fraction of the cost compared to other hospitals in India, without compromising on quality. To date, over 50,000 patients have been successfully treated at the hospital. Their expert team has performed more than 10,000 LASIK surgeries, 25,000 cataract surgeries, 10,000 retina treatments, over 1,000 squint corrections, 1,000 oculoplasty procedures, and 3,000 glaucoma cases, all with minimal complications. Each month, they treat approximately 4,500 patients and conduct around 500 surgeries, including cataract, LASIK, retina, and oculoplasty procedures, with the support of 10 dedicated",
+    "departments": [
+      "Opthamology",
+      "ENT & Cochlear Implant"
+    ],
+    "address": "The Sight Avenue, Hansraj Gupta Road, Greater Kailash-1, Greater Kailash I, Greater Kailash,",
+    "teamInfo": "With a team of highly experienced super-specialist doctors, cutting-edge diagnostic tools, and an advanced ophthalmic surgical setup, The Sight Avenue has established itself as a leading eye hospital in North India. Our single-day specialized eye treatment procedures are designed to address a wide range of vision problems with precision. At The Sight Avenue, we prioritize a seamless treatment experience, ensuring that each patient receives hassle-free care. To ease payment concerns, we provide a variety of convenient payment options and offer extensive empanelment for cashless treatment",
+    "infrastructure": "Welcome to The Sight Avenue Hospital, where your vision is our utmost priority. Recognized as a leading eye hospital in Delhi, we are committed to providing top-tier eye care services. Led by Dr. Suraj Munjal, our team of expert ophthalmologists is dedicated to offering personalized treatment, helping us earn our reputation as a premier eye care facility in the region. Utilizing cutting-edge technology and delivering compassionate care, we address all your eye care needs, from routine check-ups to advanced treatments. At The Sight Avenue, we are trusted by numerous patients to provide exceptional care and expertise. Begin your journey towards clear vision with us, where excellence in eye care is more than a promise—it's our mission.",
+    "facilities": {
+      "comfort": [
+        "TV in Room",
+        "Private Rooms",
+        "Free Wifi",
+        "Phone in Room",
+        "Mobility Accessible Rooms",
+        "Family Accommodation"
+      ],
+      "money": [
+        "Health Insurance Coordination",
+        "Medical Travel Insurance",
+        "Foreign Currency Exchange",
+        "ATM",
+        "Credit Card",
+        "Debit Card",
+        "Netbanking"
+      ],
+      "food": [
+        "Diet on Request",
+        "Restaurant",
+        "International Cuisine"
+      ],
+      "treatment": [
+        "Online Doctor Consultation",
+        "Rehabilitation",
+        "Pharmacy",
+        "Document Legalisation",
+        "Post Operative Followup"
+      ]
+    }
+  },
+  {
+    "id": "art-fertility-clinics-gurgaon-gurugram",
+    "name": "Art Fertility Clinics Gurgaon Gurugram",
+    "city": "Gurugram",
+    "beds": "100",
+    "established": "2015",
+    "type": "Multispeciality Hospital",
+    "description": "The clinic enhances success rates by maintaining state-of-the-art embryology and",
+    "about": "The clinic enhances success rates by maintaining state-of-the-art embryology and genetic testing labs, ensuring that patients receive the most advanced treatment options available. Its team of experienced IVF specialists and dedicated nursing staff deliver personalized care, offering unwavering support throughout each patient’s fertility journey. Transparency is a core value at ART Fertility Clinics. The clinic upholds the highest ethical standards in medical practice, providing patients with detailed information about their treatment options, associated risks, and expected outcomes. Patients are empowered to make informed decisions without fear of unnecessary procedures or hidden fees, fostering trust and long-term relationships. This dedication to honesty and patient-centered care distinguishes ART Fertility Clinics from other providers.",
+    "departments": [
+      "IVF, Reproductive Medicine"
+    ],
+    "address": "ART Fertility Clinics Gurgaon, Medicity, Islampur Colony, Sector 38, Gurugram, Haryana, India",
+    "teamInfo": "ART Fertility Clinics is part of a renowned global network with locations in Abu Dhabi, Muscat, and Dubai. As a leader in the GCC region, the clinic has expanded its expertise to India. With a team of 24 skilled professionals, the Gurgaon center is recognized as one of the premier IVF facilities in the area, known for its advanced technology and",
+    "infrastructure": "Over the past six years, ART Fertility Clinics has established itself as a leading institute for Human Reproductive Medicine in the Middle East, with clinics in Abu Dhabi and Dubai. As part of its global expansion strategy driven by Gulf Capital, ART Fertility Clinics entered the Indian market in 2021, launching six clinics across the country. By the second half of 2023, ART Fertility Clinics is set to announce the opening of additional",
+    "facilities": {
+      "comfort": [
+        "TV in Room",
+        "Private Rooms",
+        "Free Wifi",
+        "Phone in Room",
+        "Mobility Accessible Rooms",
+        "Family Accommodation"
+      ],
+      "money": [
+        "Health Insurance Coordination",
+        "Medical Travel Insurance",
+        "Foreign Currency Exchange",
+        "ATM",
+        "Credit Card",
+        "Debit Card",
+        "Netbanking"
+      ],
+      "food": [
+        "Diet on Request",
+        "Restaurant",
+        "International Cuisine"
+      ],
+      "treatment": [
+        "Online Doctor Consultation",
+        "Rehabilitation",
+        "Pharmacy",
+        "Document Legalisation",
+        "Post Operative Followup"
+      ]
+    }
+  },
+  {
+    "id": "artemis-hospital-gurugram",
+    "name": "Artemis Hospital Gurugram",
+    "city": "Gurugram",
+    "beds": "550",
+    "established": "2007",
+    "type": "Super Speciality Hospital",
+    "description": "Since its inception in 2007, Artemis Hospital has grown into a renowned healthcare",
+    "about": "Since its inception in 2007, Artemis Hospital has grown into a renowned healthcare institution, strategically located on a 9-acre campus in Gurgaon, India. As one of the first hospitals in the region to earn NABH, NABL, and multiple JCI accreditations, Artemis leads the way in delivering quality healthcare. In 2011, WHO recognized Artemis with the Asia Pacific Hand Hygiene Excellence Award, a testament to the hospital’s dedication to patient safety. Thanks to its state-of-the-art facilities and pioneering medical expertise, Artemis was honored as the Best Super Specialty Hospital in Delhi NCR by the Indian Excellence Award in 2017. The hospital continued its streak with the 2018 award for Best Multi-Specialty Hospital in Delhi NCR from the Health Care Awards. The commitment to maintaining the highest standards of cleanliness and infection control was further validated in 2019 when Artemis received the Kayakalp Award from the Quality Council of India in collaboration with the Government of India.",
+    "departments": [
+      "Cardiology",
+      "Orthopedic & Joint Replacement",
+      "Neurology",
+      "Haemato Oncology & BMT",
+      "Oncology",
+      "Spine & Scoliosis Surgery",
+      "Opthamology",
+      "Urology & Kidney Transplant",
+      "Liver Transplant & GI & HPB Surgery",
+      "Cardiac Thoracic & Vascular Surgery",
+      "Cosmetic & Plastic Surgery",
+      "ENT & Cochlear Implant",
+      "General & Minimally Invasive Surgery",
+      "Gastroenterology",
+      "Dermatology & Cosmetology",
+      "Dentistry",
+      "Obstetrics & Gynaecology",
+      "Neurointerventional Surgery",
+      "Medical Oncology",
+      "Surgical Oncology",
+      "Gynaecological Oncology",
+      "Nephrology"
+    ],
+    "address": "Artemis Hospital Gurgaon, Sector 51, Gurugram, Haryana, India",
+    "teamInfo": "Artemis Hospital boasts a team of over 400 dedicated medical professionals specializing in diverse fields such as orthopedics and joint replacement, urology, obstetrics and gynecology, gastroenterology, oncology, IVF, nephrology, cosmetic and plastic surgery, With 12 centers of excellence spanning more than 40 specialties and subspecialties, the hospital ensures that patients receive top-tier consultations and medical care. The Artemis Heart Centre, equipped with a state-of-the-art cardiac cath lab, endovascular operating suites, and a cardiac rehabilitation center, has established itself as a leader in heart care by successfully completing over 30,000 procedures in the past",
+    "infrastructure": "Spread across 9 acres, Artemis Hospital is a modern facility with 550 beds designed to deliver comprehensive medical care. The hospital houses over 65 ICU beds equipped with advanced technology, including high-frequency ventilators for NICU, central venous pressure monitoring, intra-aortic balloon pumps, PA pressure monitoring, ABG monitoring, FlowTrac, bedside percutaneous tracheostomy, ECHO cardiology, and brain hugger systems, ensuring top-tier care for critically ill patients. Embracing the latest in robotic technology, Artemis Hospital offers Da Vinci robotic surgery for a wide range of procedures, including urology, urologic oncology, colorectal surgery, thoracic surgery, general surgery, and gynecologic surgery",
+    "facilities": {
+      "comfort": [
+        "TV in Room",
+        "Private Rooms",
+        "Free Wifi",
+        "Phone in Room",
+        "Mobility Accessible Rooms",
+        "Family Accommodation"
+      ],
+      "money": [
+        "Health Insurance Coordination",
+        "Medical Travel Insurance",
+        "Foreign Currency Exchange",
+        "ATM",
+        "Credit Card",
+        "Debit Card",
+        "Netbanking"
+      ],
+      "food": [
+        "Diet on Request",
+        "Restaurant",
+        "International Cuisine"
+      ],
+      "treatment": [
+        "Online Doctor Consultation",
+        "Rehabilitation",
+        "Pharmacy",
+        "Document Legalisation",
+        "Post Operative Followup"
+      ]
+    }
+  },
+  {
+    "id": "birla-fertility-gurgaon-gurugram",
+    "name": "Birla Fertility Gurgaon Gurugram",
+    "city": "Gurugram",
+    "beds": "10",
+    "established": "2017",
+    "type": "Multispeciality Hospital",
+    "description": "Birla Fertility and IVF is a premier fertility clinic located in Sector 51, Gurgaon, dedicated",
+    "about": "Birla Fertility and IVF is a premier fertility clinic located in Sector 51, Gurgaon, dedicated to shaping the future of fertility care worldwide. Our focus is on delivering exceptional clinical outcomes through research, innovation, and compassionate patient care. We provide fertility treatments that are reliable, empathetic, and transparent, all at competitive pricing. Our experienced team of fertility specialists has successfully managed over 21,000 IVF cycles, achieving high success rates. They offer personalized guidance throughout your treatment, ensuring that your well-being, privacy, and best interests remain top priorities. Our mission is to make world-class fertility and IVF treatments accessible to every couple in India. Our advanced laboratories, equipped with the latest technology, adhere to global standards to provide cutting-edge treatments at",
+    "departments": [
+      "IVF, Reproductive Medicine"
+    ],
+    "address": "Birla Fertility & IVF - Gurgaon, Birla Fertility & IVF, Block J, Mayfield Garden, Sector 51,",
+    "teamInfo": "A fertility specialist diagnoses and treats reproductive issues, helping individuals and couples achieve pregnancy through various fertility treatments available backed with cutting-edge assisted reproductive technologies.",
+    "infrastructure": "Birla Fertility & IVF aims at transforming the future of fertility globally, through outstanding clinical outcomes, research, innovation and compassionate care.",
+    "facilities": {
+      "comfort": [
+        "TV in Room",
+        "Private Rooms",
+        "Free Wifi",
+        "Phone in Room",
+        "Mobility Accessible Rooms",
+        "Family Accommodation"
+      ],
+      "money": [
+        "Health Insurance Coordination",
+        "Medical Travel Insurance",
+        "Foreign Currency Exchange",
+        "ATM",
+        "Credit Card",
+        "Debit Card",
+        "Netbanking"
+      ],
+      "food": [
+        "Diet on Request",
+        "Restaurant",
+        "International Cuisine"
+      ],
+      "treatment": [
+        "Online Doctor Consultation",
+        "Rehabilitation",
+        "Pharmacy",
+        "Document Legalisation",
+        "Post Operative Followup"
+      ]
+    }
+  },
+  {
+    "id": "ck-birla-hospital-gurugram",
+    "name": "CK Birla Hospital Gurugram",
+    "city": "Gurugram",
+    "beds": "23",
+    "established": "2017",
+    "type": "Multispeciality Hospital",
+    "description": "CK Birla Hospital, a key member of the esteemed CK Birla Group—a leading $1.8 billion",
+    "about": "CK Birla Hospital, a key member of the esteemed CK Birla Group—a leading $1.8 billion diversified enterprise in India—boasts a network of advanced medical centers in Kolkata, Gurgaon, and Jaipur. The hospital is committed to upholding exceptional standards of care by adhering to UK NHS guidelines and integrating protocols from the UK's National Institute for Health and Care Excellence (NICE). This dedication ensures that patients receive world-class treatment and care across its facilities. CK Birla Hospital has marked a significant achievement with the successful execution of the first Interstitial LASER procedure for fetal reduction in Gurgaon. The hospital provides a broad spectrum of services, including neonatology, obstetrics, gynecology, pediatrics, fertility treatments, preventive healthcare, mental health services, urology, oncology, pain management, plastic surgery, and advanced surgical procedures. This diverse range of services reflects CK Birla Hospital's commitment to offering comprehensive, high-quality care across multiple medical specialties. At CK Birla Hospital, our mission is to provide outstanding medical care and innovative treatments, consistently ensuring the highest levels of patient care and well-being.",
+    "departments": [
+      "Cardiology",
+      "Orthopedic & Joint Replacement",
+      "Neurology",
+      "Haemato Oncology & BMT",
+      "Oncology",
+      "Spine & Scoliosis Surgery",
+      "Paediatric Cardiac Care",
+      "Urology & Kidney Transplant",
+      "Liver Transplant & GI & HPB Surgery",
+      "Surgical Oncology",
+      "Neuro Surgery",
+      "Nephrology"
+    ],
+    "address": "J-Block Mayfield Gardens, Nirvana Central Rd, Block J, Mayfield Garden, Sector 50, Gurgaon,",
+    "teamInfo": "CK Birla Hospital is supported by a dedicated team of over 30 highly skilled medical professionals. The hospital’s intensive care unit operates around the clock, staffed by expert intensivists, anesthetists, and neonatologists who provide comprehensive care for patients in the Surgical Intensive Care Unit (SICU), Medical Intensive Care Unit (MICU), and general Intensive Care Unit (ICU). This commitment ensures that patients receive exceptional care and continuous monitoring for optimal recovery. With extensive experience and expertise, our medical team is committed to delivering outstanding healthcare services. Patient well-being and safety are always prioritized, ensuring the highest standard of care at every stage.",
+    "infrastructure": "CK Birla Hospital covers an expansive 78,000 sq. ft., incorporating 39 patient rooms and suites, 70 ICU beds, 5 modular operating theatres, and a 15-bed Level 3 Neonatal Intensive Care Unit (NICU) and Special Care Baby Unit (SCBU). The facility also features 4 labor rooms, a dedicated Labor, Delivery, and Recovery (LDR) suite, and 11 outpatient rooms, ensuring comprehensive and specialized care for a wide range of The hospital boasts a comprehensive IVF unit with a modular egg collection theatre, andrology lab, IVF lab, IUI/embryo transfer facility, cryo store, and various types of rooms for a comfortable stay, including suites, junior suites, deluxe, and junior deluxe CK Birla Hospital provides round-the-clock services in Radiology, Pathology, Emergency, and Pharmacy, ensuring immediate and continuous patient care.",
+    "facilities": {
+      "comfort": [
+        "TV in Room",
+        "Private Rooms",
+        "Free Wifi",
+        "Phone in Room",
+        "Mobility Accessible Rooms",
+        "Family Accommodation"
+      ],
+      "money": [
+        "Health Insurance Coordination",
+        "Medical Travel Insurance",
+        "Foreign Currency Exchange",
+        "ATM",
+        "Credit Card",
+        "Debit Card",
+        "Netbanking"
+      ],
+      "food": [
+        "Diet on Request",
+        "Restaurant",
+        "International Cuisine"
+      ],
+      "treatment": [
+        "Online Doctor Consultation",
+        "Rehabilitation",
+        "Pharmacy",
+        "Document Legalisation",
+        "Post Operative Followup"
+      ]
+    }
+  },
+  {
+    "id": "centre-for-sight-gurugram",
+    "name": "Centre for Sight, Gurugram",
+    "city": "Gurugram",
+    "beds": "0",
+    "established": "1996",
+    "type": "Super Speciality Hospital",
+    "description": "Centre for Sight Eye Hospital in Sector 29, Gurgaon boasts a state-of-the-art",
+    "about": "Centre for Sight Eye Hospital in Sector 29, Gurgaon boasts a state-of-the-art infrastructure, designed to deliver top-notch clinical outcomes through the latest advancements in ophthalmic technology. Notable medical equipment includes Catalys and Lensx lasers, VisuMax, Intralase Femtosecond Laser, Ocular Surface Analyzer, advanced ophthalmic microscopes, Sirrus Topographer, Auto Refractometers, and Oculus Pentacam, ensuring precision and accuracy in diagnosis and treatment. Additionally, the hospital provides low-vision aids to support patients in need. The hospital is also home to a 24/7 pharmacy, an optician’s clinic, and an eye bank, further enhancing the comprehensive care offered.",
+    "departments": [
+      "Opthamology"
+    ],
+    "address": "CENTRE FOR SIGHT GROUP OF EYE HOSPITALS | SECTOR 29 | GURUGRAM, Central",
+    "teamInfo": "As a leading eye-care institution, the hospital specializes in advanced surgeries such as cataract, LASIK, SMILE, and other refractive procedures. Additionally, it offers comprehensive care for conditions involving the retina, cornea, glaucoma, pediatric ophthalmology, ocular oncology, and neuro-ophthalmology. Treatments for specific conditions such as squint in both children and adults, ocular surface disorders, dry eye, retinoblastoma, and keratoconus are also provided. The hospital is equipped to perform cosmetic procedures, addressing concerns like drooping eyelids and watery eyes.",
+    "infrastructure": "Supported by a highly trained and experienced medical team, the Centre for Sight Eye Hospital in Sector 29 provides a welcoming, hygienic, and well-maintained environment. Spread across multiple floors with a serene green courtyard, the hospital is designed to create a comfortable and pleasant experience for all patients.",
+    "facilities": {
+      "comfort": [
+        "TV in Room",
+        "Private Rooms",
+        "Free Wifi",
+        "Phone in Room",
+        "Mobility Accessible Rooms",
+        "Family Accommodation"
+      ],
+      "money": [
+        "Health Insurance Coordination",
+        "Medical Travel Insurance",
+        "Foreign Currency Exchange",
+        "ATM",
+        "Credit Card",
+        "Debit Card",
+        "Netbanking"
+      ],
+      "food": [
+        "Diet on Request",
+        "Restaurant",
+        "International Cuisine"
+      ],
+      "treatment": [
+        "Online Doctor Consultation",
+        "Rehabilitation",
+        "Pharmacy",
+        "Document Legalisation",
+        "Post Operative Followup"
+      ]
+    }
+  },
+  {
+    "id": "cloudnine-fertility-gurugram",
+    "name": "Cloudnine Fertility Gurugram",
+    "city": "Gurugram",
+    "beds": "270",
+    "established": "2007",
+    "type": "Multispeciality Hospital",
+    "description": "Cloudnine Fertility - Sector 47, Gurgaon is recognized as a leading fertility center,",
+    "about": "Cloudnine Fertility - Sector 47, Gurgaon is recognized as a leading fertility center, specializing in IVF, ICSI, and IUI procedures, supported by a team of top fertility specialists. Conveniently located near Sector 46, Sector 48, and Sector 49, we also offer advanced treatments for male infertility issues such as Azoospermia and low sperm count, starting with comprehensive semen analysis. For women facing challenges in conceiving, we provide tailored solutions for conditions like Blocked Fallopian Tubes, Ovulation disorders, Endometriosis, and unsuccessful IVF cycles, all while ensuring a high success rate. Our IVF clinic incorporates cutting-edge technologies such as time-lapse embryo monitoring, vitrification, PGS, DNA fragmentation index, laser-assisted hatching (LAH), and Frozen Embryo Transfer.",
+    "departments": [
+      "IVF, Reproductive Medicine"
+    ],
+    "address": "Cloudnine Fertility & IVF Center - Sector 47, Gurugram, Block A, Sector 47, Gurugram,",
+    "teamInfo": "Cloudnine has revolutionized the fertility landscape in Gurgaon, earning widespread recognition for its exceptional facilities, advanced fertility technologies, and swift treatment timelines. The Gurgaon center boasts a renowned team of fertility experts and embryologists, known for their impressive success rates in managing a diverse range of complex infertility cases. At Cloudnine, each fertility solution is carefully tailored to meet the individual needs of every couple, offering personalized and bespoke care.",
+    "infrastructure": "Cloudnine's fertility hospital in Gurugram is the heart of Cloudnine's assisted reproductive technology footprint in Gurugram. The centre has been widely lauded for its personalised treatment plans and superlative success rates.",
+    "facilities": {
+      "comfort": [
+        "TV in Room",
+        "Private Rooms",
+        "Free Wifi",
+        "Phone in Room",
+        "Mobility Accessible Rooms",
+        "Family Accommodation"
+      ],
+      "money": [
+        "Health Insurance Coordination",
+        "Medical Travel Insurance",
+        "Foreign Currency Exchange",
+        "ATM",
+        "Credit Card",
+        "Debit Card",
+        "Netbanking"
+      ],
+      "food": [
+        "Diet on Request",
+        "Restaurant",
+        "International Cuisine"
+      ],
+      "treatment": [
+        "Online Doctor Consultation",
+        "Rehabilitation",
+        "Pharmacy",
+        "Document Legalisation",
+        "Post Operative Followup"
+      ]
+    }
+  },
+  {
+    "id": "fortis-memorial-research-institute-gurugram",
+    "name": "Fortis Memorial Research Institute Gurugram",
+    "city": "Gurugram",
+    "beds": "310",
+    "established": "2006",
+    "type": "Multispeciality Hospital",
+    "description": "FMRI holds prestigious accreditations from JCI, NABH, and NABL, underscoring its",
+    "about": "FMRI holds prestigious accreditations from JCI, NABH, and NABL, underscoring its dedication to superior quality and patient care. In 2023, the hospital was recognized for its exceptional Bone Marrow Transplant services at the Bangladesh International Healthcare Expo and received accolades at the Advantage Healthcare India Medical Value Travel Awards. Additionally, FMRI was honored with a Certificate of Appreciation from the Ministry of Health of the Republic of South Sudan, further affirming its global recognition and commitment to excellence. Experience excellence at our advanced Centers of Excellence in Robotic Surgery, Oncology (covering Medical, Surgical, Gynecological, and Radiation specialties), Cardiology, Cardiac Surgery, Transplants (Kidney and Liver), Hematology, Hemato Oncology, Bone Marrow Transplant, Gastroenterology, GI Surgery, Neurology, Neurosurgery, Spine Surgery, Urology, Orthopedics, Joint Replacement & Sports Medicine, Minimal Access & Bariatric Surgery, and Pediatrics. FMRI has garnered notable acclaim for its exceptional services. In 2021, it was honored as the Best Hospital in North India for Oncology, Cardiology, and Gastroenterology by the Economic Times Healthcare Awards. Additionally, it earned international recognition by being the only Indian hospital listed in Newsweek’s Top 25 ‘World’s Best Smart",
+    "departments": [
+      "Cardiology",
+      "Orthopedic & Joint Replacement",
+      "Neurology",
+      "Haemato Oncology & BMT",
+      "Oncology",
+      "Spine & Scoliosis Surgery",
+      "Paediatric Cardiac Care",
+      "Opthamology",
+      "Urology & Kidney Transplant",
+      "Liver Transplant & GI & HPB Surgery",
+      "Cardiac Thoracic & Vascular Surgery",
+      "Cosmetic & Plastic Surgery",
+      "ENT & Cochlear Implant",
+      "General & Minimally Invasive Surgery",
+      "Gastroenterology",
+      "Dermatology & Cosmetology",
+      "Dentistry",
+      "Obstetrics & Gynaecology",
+      "Neurointerventional Surgery",
+      "Medical Oncology",
+      "Surgical Oncology",
+      "Gynaecological Oncology",
+      "Nephrology"
+    ],
+    "address": "Gurgaon Huda City Centre Metro Station, Sector 44, Gurugram, Haryana 122002, India",
+    "teamInfo": "Fortis Hospital, Gurugram, stands out as a leader in Neurosciences, Oncology, Renal Sciences, Orthopaedics, Cardiac Sciences, and Obstetrics and Gynaecology, solidifying its reputation as one of the premier hospitals in the city. The hospital boasts state-of-the-art Centres of Excellence across multiple specialties, including Robotic Surgery, Oncology (Medical, Surgical, Gynecological, and Radiation), Cardiology and Cardiac Surgery, Kidney and Liver Transplants, Haematology and Haemato-Oncology, Bone Marrow Transplant, Gastroenterology and GI Surgery, Neurology and Neuro-Spine Surgery, Urology, Orthopaedics, Joint Replacement and Sports Medicine, Minimal Access and Bariatric Surgery, and Paediatrics. Fortis Memorial Research Institute (FMRI) is at the forefront of advanced super-specialization in oncology, trauma, and paediatric care, with embedded excellence in neurosciences, minimal access surgery, cardiac sciences, and orthopaedics. Notably, FMRI was the first hospital in India to perform a Swap Liver Transplant. The hospital also offers a range of advanced procedures, including Lateral Internal Sphincterotomy, Endoscopic Sleeve Gastroplasty, Haemorrhoidal Artery Ligation and Recto-Anal Repair (HAL-RAR), Total Thyroidectomy, and Laparoscopy.",
+    "infrastructure": "Fortis Memorial Research Institute (FMRI) spans 150,000 square feet of eco-friendly space, featuring a range of advanced amenities designed for superior medical care. As a 310-bed facility, FMRI is equipped with 15 operating theaters, 105 ICU beds, and specialized areas for robotic surgeries. The hospital is renowned for its cutting-edge medical technology, including modular operating rooms and specialized facilities for diverse medical procedures. Notably, FMRI houses India’s first “see-through” glass lab, enabling immediate collection and Among its advanced imaging technologies, FMRI features the latest 256 Slice Brilliance iCT Scanner, capable of capturing a complete image of the heart in just two heartbeats. It also offers a Bi-Plane Cath Lab and an ultra-modern Cardiac Cath Lab for comprehensive cardiac and vascular interventions. For neurological procedures, FMRI offers a specialized CT-based Brain Suite with intraoperative CT capabilities, enhancing precision during surgeries. The facility utilizes Gamma Knife technology for precise, non-invasive treatments, and is equipped with the world’s first 3 Tesla Digital MRI technology, advancing capabilities in advanced radiation Patient comfort is a priority, with Wi-Fi-enabled rooms, personalized meal plans, and an exclusive lounge designed for international patients.",
+    "facilities": {
+      "comfort": [
+        "TV in Room",
+        "Private Rooms",
+        "Free Wifi",
+        "Phone in Room",
+        "Mobility Accessible Rooms",
+        "Family Accommodation"
+      ],
+      "money": [
+        "Health Insurance Coordination",
+        "Medical Travel Insurance",
+        "Foreign Currency Exchange",
+        "ATM",
+        "Credit Card",
+        "Debit Card",
+        "Netbanking"
+      ],
+      "food": [
+        "Diet on Request",
+        "Restaurant",
+        "International Cuisine"
+      ],
+      "treatment": [
+        "Online Doctor Consultation",
+        "Rehabilitation",
+        "Pharmacy",
+        "Document Legalisation",
+        "Post Operative Followup"
+      ]
+    }
+  },
+  {
+    "id": "marengo-asia-hospital-gurugram",
+    "name": "Marengo Asia Hospital Gurugram",
+    "city": "Gurugram",
+    "beds": "250",
+    "established": "1995",
+    "type": "Multispeciality Hospital",
+    "description": "Marengo Asia Hospital is honored to hold NABH accreditation, underscoring its",
+    "about": "Marengo Asia Hospital is honored to hold NABH accreditation, underscoring its commitment to upholding the highest standards of quality and safety in healthcare. This prestigious recognition reflects the hospital’s adherence to stringent protocols, ensuring that patients receive exceptional care in a secure and reliable environment. The hospital's dedication to excellence is evident through its advanced facilities and a team of highly skilled healthcare professionals. In 2018, Marengo Asia Hospitals achieved notable milestones by treating over 25,000 patients and successfully completing more than 5,500 IVF treatments. Under the leadership of Dr. Pramod Kumar Sharma, a distinguished pioneer in IVF, the hospital underscored its dedication to excellence in fertility care and comprehensive patient The hospital boasts specialized departments in cardiology, neurology, orthopedics, urology, oncology, and more. Each department is equipped with cutting-edge technology and staffed by leading experts, ensuring that patients receive specialized and comprehensive care tailored to their needs.",
+    "departments": [
+      "Cardiology",
+      "Orthopedic & Joint Replacement",
+      "Neurology",
+      "Haemato Oncology & BMT",
+      "Oncology",
+      "Spine & Scoliosis Surgery",
+      "Paediatric Cardiac Care",
+      "Opthamology",
+      "Urology & Kidney Transplant",
+      "Liver Transplant & GI & HPB Surgery",
+      "Cardiac Thoracic & Vascular Surgery",
+      "Dermatology & Cosmetology",
+      "Dentistry",
+      "Obstetrics & Gynaecology",
+      "Neurointerventional Surgery",
+      "Nephrology"
+    ],
+    "address": "Golf Course Ext Rd, Sushant Lok II, Sector 56, Gurugram, Ghata, Haryana 122011",
+    "teamInfo": "The IVF wing is equipped with advanced microsurgical tools and a state-of-the-art modular lab, supported by a team of highly skilled specialists. This setup ensures high success rates in fertility treatments through precision and expertise. The Gynecology Department specializes in laparoscopic surgery, offering minimally invasive procedures for cyst and tumor removal through key-hole incisions. This approach promotes quicker recovery and less postoperative pain.",
+    "infrastructure": "Marengo Asia Hospitals features cutting-edge technology and a luxurious ambiance, creating a comfortable and advanced healthcare environment. The hospital is meticulously designed to meet diverse patient needs, ensuring top-notch medical care in a serene and sophisticated setting. A key highlight of the hospital's infrastructure is its state-of-the-art physiotherapy unit, which collaborates closely with the orthopedic department. This integrated approach ensures patients receive comprehensive care from diagnosis and treatment through to rehabilitation, facilitating faster recovery and enhanced outcomes.",
+    "facilities": {
+      "comfort": [
+        "TV in Room",
+        "Private Rooms",
+        "Free Wifi",
+        "Phone in Room",
+        "Mobility Accessible Rooms",
+        "Family Accommodation"
+      ],
+      "money": [
+        "Health Insurance Coordination",
+        "Medical Travel Insurance",
+        "Foreign Currency Exchange",
+        "ATM",
+        "Credit Card",
+        "Debit Card",
+        "Netbanking"
+      ],
+      "food": [
+        "Diet on Request",
+        "Restaurant",
+        "International Cuisine"
+      ],
+      "treatment": [
+        "Online Doctor Consultation",
+        "Rehabilitation",
+        "Pharmacy",
+        "Document Legalisation",
+        "Post Operative Followup"
+      ]
+    }
+  },
+  {
+    "id": "medanta-hospital-gurugram",
+    "name": "Medanta Hospital Gurugram",
+    "city": "Gurugram",
+    "beds": "1300",
+    "established": "2009",
+    "type": "Multispeciality Hospital",
+    "description": "Medanta Hospital, established in 2009 by the distinguished Dr. Naresh Trehan, a leading",
+    "about": "Medanta Hospital, established in 2009 by the distinguished Dr. Naresh Trehan, a leading figure in cardiovascular and cardiothoracic surgery, was founded with a mission to provide world-class medical care. Combining state-of-the-art technology with a focus on compassionate care, Medanta reflects Dr. Trehan's dedication to elevating healthcare in The hospital holds both NABH and NABL accreditations, affirming its commitment to the highest quality standards and patient safety protocols. These prestigious certifications highlight Medanta's adherence to strict guidelines, ensuring that patients receive exceptional care in every aspect. Medanta's advanced infrastructure, paired with its highly skilled medical professionals, places it among the top healthcare providers. It features several Centers of Excellence, including the Heart Institute, Neurosciences Institute, Bone & Joint Institute, Kidney & Urology Institute, Cancer Institute, and the Division of Medical Oncology and Hematology. Each center is equipped with cutting-edge technology and staffed by specialists, ensuring comprehensive and specialized treatment for a wide range of",
+    "departments": [
+      "Cardiology",
+      "Orthopedic & Joint Replacement",
+      "Neurology",
+      "Haemato Oncology & BMT",
+      "Oncology",
+      "Spine & Scoliosis Surgery",
+      "Paediatric Cardiac Care",
+      "Opthamology",
+      "Urology & Kidney Transplant",
+      "Gastroenterology",
+      "Nephrology"
+    ],
+    "address": "Medanta -The Medicity, Medanta- The Medicity, CH Baktawar Singh Rd, Medicity, Islampur",
+    "teamInfo": "In January 2013, Medanta made history by completing India's first successful intestinal transplant under the leadership of Dr. A.S. Soin. This landmark surgery demonstrated the hospital's pioneering approach and commitment to pushing the frontiers of medical Medanta's surgical expertise is unmatched, having successfully completed over 15,000 cardiac surgeries and 2,500 joint replacements. The hospital is also a leader in liver transplants, with more than 500 living donor procedures, positioning it as the top center in India and second globally. These milestones reflect Medanta’s unwavering dedication to performing complex surgeries with precision and care. The hospital also achieved a world record for completing 30 Total Knee Replacements in a single day, exemplifying its capacity to handle complex, high-volume operations with Medanta serves as a certified International Training Centre by the American Heart Association, providing top-tier education for doctors, nurses, and paramedical staff. Its training programs, supported by advanced simulation labs and digital resources, empower healthcare professionals to elevate their skills under the guidance of experienced faculty, ensuring that Medanta continues to lead in medical education.",
+    "infrastructure": "Medanta Hospital, spanning across 43 acres, boasts advanced facilities designed to meet a wide range of medical requirements. With 45 state-of-the-art operation theatres and 1,250 beds, including over 350 critical care beds across 20 specialized departments, Medanta is equipped to deliver comprehensive care to a large patient base Alongside its extensive inpatient capacity, Medanta ensures efficient and timely care with 20 treatment beds in constant operation, enabling it to handle both routine and emergency cases with precision. This infrastructure supports the hospital’s commitment to high-quality patient care across a variety of needs. In 2013, Medanta further revolutionized emergency medical services by launching India's first air ambulance service, ‘Flying Doctors India.’ This initiative reflects Medanta's forward-thinking approach to healthcare, ensuring rapid and accessible medical intervention for critically ill patients, regardless of their location.",
+    "facilities": {
+      "comfort": [
+        "TV in Room",
+        "Private Rooms",
+        "Free Wifi",
+        "Phone in Room",
+        "Mobility Accessible Rooms",
+        "Family Accommodation"
+      ],
+      "money": [
+        "Health Insurance Coordination",
+        "Medical Travel Insurance",
+        "Foreign Currency Exchange",
+        "ATM",
+        "Credit Card",
+        "Debit Card",
+        "Netbanking"
+      ],
+      "food": [
+        "Diet on Request",
+        "Restaurant",
+        "International Cuisine"
+      ],
+      "treatment": [
+        "Online Doctor Consultation",
+        "Rehabilitation",
+        "Pharmacy",
+        "Document Legalisation",
+        "Post Operative Followup"
+      ]
+    }
+  },
+  {
+    "id": "paras-hospital-gurugram-haryana-gurugram",
+    "name": "Paras Hospital Gurugram, Haryana Gurugram",
+    "city": "Gurugram",
+    "beds": "300",
+    "established": "1990",
+    "type": "Super Speciality Hospital",
+    "description": "Paras Health, located in Gurugram, is the flagship institution of the Paras Health",
+    "about": "Paras Health, located in Gurugram, is the flagship institution of the Paras Health network, featuring 300 beds and state-of-the-art facilities. Established in 2006, Paras Health has earned a reputation as Gurgaon's premier healthcare provider, delivering a wide range of medical and surgical services. Recognized as one of the top multispecialty hospitals in the region, Paras Health excels in specialties such as Cardio Sciences, Gynaecology, Neuro Sciences, Oncology, and Gastroenterology. Paras Health is dedicated to enhancing the health of Bharat by offering top-notch healthcare services at accessible rates. Our core mission is to extend tertiary healthcare to communities in need, removing geographical and financial barriers to quality medical assistance. Guided by values of compassion, affordability, accessibility, and excellence, we strive to treat patients as partners, embodying our pledge to be their \"Partners in Since its inception in Gurugram in 2006, Paras Health has expanded its reach to Patna, Darbhanga, Udaipur, Panchkula, Ranchi, and now Srinagar and Kanpur. Our vision is to become the leading private healthcare provider in our markets by 2031, aiming for a network of approximately 10,000 beds. By the fiscal year 2028, we plan to add around 5,000 beds through both organic growth and strategic acquisitions.",
+    "departments": [
+      "Cardiology",
+      "Orthopedic & Joint Replacement",
+      "Neurology",
+      "Oncology",
+      "Spine & Scoliosis Surgery",
+      "Liver Transplant & GI & HPB Surgery",
+      "Cosmetic & Plastic Surgery",
+      "Obstetrics & Gynaecology",
+      "Medical Oncology",
+      "Paediatric Surgery"
+    ],
+    "address": "Sushant Lok Rd, Block C, Sushant Lok Phase I, Sector 43, Gurugram, Haryana 122002, India",
+    "teamInfo": "Discover Exceptional Healthcare at Paras Health At Paras Health, our team of skilled doctors is central to our dedication to providing outstanding medical care. We offer a wide range of specialties, all focused on delivering personalized and compassionate healthcare. Our experienced medical professionals are committed to addressing your individual needs with the highest standards of care.",
+    "infrastructure": "Our expansion strategy is driven by our values, focusing on improving healthcare accessibility, offering affordable services, and ensuring high-quality medical care in new areas. Wherever there is a need, Paras Health steps in to provide exceptional healthcare services, making a significant impact on the lives of millions and advancing healthcare infrastructure in the region. With unmatched medical expertise, cutting-edge technology, and advanced facilities, Paras Health remains a trusted partner in the pursuit of a",
+    "facilities": {
+      "comfort": [
+        "TV in Room",
+        "Private Rooms",
+        "Free Wifi",
+        "Phone in Room",
+        "Mobility Accessible Rooms",
+        "Family Accommodation"
+      ],
+      "money": [
+        "Health Insurance Coordination",
+        "Medical Travel Insurance",
+        "Foreign Currency Exchange",
+        "ATM",
+        "Credit Card",
+        "Debit Card",
+        "Netbanking"
+      ],
+      "food": [
+        "Diet on Request",
+        "Restaurant",
+        "International Cuisine"
+      ],
+      "treatment": [
+        "Online Doctor Consultation",
+        "Rehabilitation",
+        "Pharmacy",
+        "Document Legalisation",
+        "Post Operative Followup"
+      ]
+    }
+  },
+  {
+    "id": "shallby-sanar-international-hospital-gurugram",
+    "name": "Shallby Sanar International Hospital Gurugram",
+    "city": "Gurugram",
+    "beds": "150",
+    "established": "2018",
+    "type": "Multispeciality Hospital",
+    "description": "Established in 2018 by Mr. Naresh Kapoor, Sanar International Hospital is strategically",
+    "about": "Established in 2018 by Mr. Naresh Kapoor, Sanar International Hospital is strategically located in the heart of Gurugram. This 150-bed facility, including 35 ICU beds specifically for transplant care, upholds a global vision while adhering to international standards. The hospital excels in providing specialized care across various medical fields, making it a trusted destination for advanced surgical procedures. Sanar International Hospital offers advanced surgical care across over 15 specialties, supported by state-of-the-art infrastructure and a dedicated team of experienced medical professionals. Renowned for its excellence, the hospital is a top choice for both domestic and international patients. Its faculty members contribute to medical clinical and advisory boards and frequently share their expertise at national and international conferences. Sanar International Hospital specializes in high-end complex surgeries, utilizing advanced technology to perform intricate procedures with precision. This dedication to clinical excellence guarantees that the care provided meets global standards, ensuring top-tier treatment for all patients.",
+    "departments": [
+      "Cardiology",
+      "Orthopedic & Joint Replacement",
+      "Neurology",
+      "Haemato Oncology & BMT",
+      "Oncology",
+      "Spine & Scoliosis Surgery",
+      "Paediatric Cardiac Care",
+      "Opthamology",
+      "Urology & Kidney Transplant",
+      "Liver Transplant & GI & HPB Surgery",
+      "Cardiac Thoracic & Vascular Surgery",
+      "Cosmetic & Plastic Surgery",
+      "ENT & Cochlear Implant",
+      "General & Minimally Invasive Surgery",
+      "Gastroenterology",
+      "Dentistry",
+      "Obstetrics & Gynaecology",
+      "Neurointerventional Surgery",
+      "Medical Oncology",
+      "Surgical Oncology",
+      "Gynaecological Oncology",
+      "Paediatric Surgery"
+    ],
+    "address": "Golf Course Rd, Parsvnath Exotica, DLF Phase 5, Sector 53, Gurugram, Haryana 122022, India",
+    "teamInfo": "Sanar International Hospital is renowned for its advanced technology and a team of highly qualified clinical experts. With a comprehensive range of medical procedures spanning over 20 specialties, the hospital ensures exceptional care and state-of-the-art treatment options for all patients. Key specialties at Sanar International Hospital include Anesthesiology, General Medicine, Ophthalmology, Cardiac Sciences, and General Surgery & Surgical Gastroenterology. The hospital is also renowned for its expertise in Orthopedics, Cardiothoracic Surgery, Hematology, and Pediatrics. Specialists at Sanar International Hospital have successfully conducted numerous reconstruction surgeries, demonstrating their expertise and dedication to providing",
+    "infrastructure": "Sanar International Hospital, a premier 150-bed facility with 35 ICU beds dedicated to transplant care, is strategically situated in the heart of Gurugram. The hospital upholds global standards and a commitment to excellence in healthcare. The hospital includes a 7-bed dialysis unit, 14 specialized BMT rooms, 4 state-of-the-art modular operating theaters, and an Endoscopy and Bronchoscopy suite. It also offers a 24-hour blood bank service for comprehensive patient care. The hospital features advanced laboratories in Radiology, Biochemistry, Hematology, Microbiology, Histopathology, Cytology, and Clinical Pathology, providing a wide range of diagnostic tests to ensure precise diagnosis and effective treatment.",
+    "facilities": {
+      "comfort": [
+        "TV in Room",
+        "Private Rooms",
+        "Free Wifi",
+        "Phone in Room",
+        "Mobility Accessible Rooms",
+        "Family Accommodation"
+      ],
+      "money": [
+        "Health Insurance Coordination",
+        "Medical Travel Insurance",
+        "Foreign Currency Exchange",
+        "ATM",
+        "Credit Card",
+        "Debit Card",
+        "Netbanking"
+      ],
+      "food": [
+        "Diet on Request",
+        "Restaurant",
+        "International Cuisine"
+      ],
+      "treatment": [
+        "Online Doctor Consultation",
+        "Rehabilitation",
+        "Pharmacy",
+        "Document Legalisation",
+        "Post Operative Followup"
+      ]
+    }
+  },
+  {
+    "id": "the-sight-avenue-gurugram",
+    "name": "The Sight Avenue, Gurugram",
+    "city": "Gurugram",
+    "beds": "0",
+    "established": "1970",
+    "type": "Multispeciality Hospital",
+    "description": "The Sight Avenue stands as the premier eye hospital in Gurgaon, Haryana, known for its",
+    "about": "The Sight Avenue stands as the premier eye hospital in Gurgaon, Haryana, known for its cutting-edge technology and state-of-the-art equipment to diagnose and treat a wide range of eye conditions. Renowned for its expertise, the hospital is the top choice for individuals seeking solutions for vision correction and eye-related issues. At The Sight Avenue, our team of expert doctors provides comprehensive treatment for various eye conditions, including eye infections, corneal diseases, conjunctival disorders, corneal ulcers, and conjunctivitis. We are also highly specialized in performing cataract surgeries, LASIK surgery for vision correction, treating retinal detachments, squints, and other complex eye problems. Our commitment to delivering world-class care is paired with affordability, ensuring quality treatment for all.",
+    "departments": [
+      "Opthamology",
+      "ENT & Cochlear Implant"
+    ],
+    "address": "The Sight Avenue Eye Hospital, near Bakhtawar Chowk, Medicity, Islampur Colony, Sector 38,",
+    "teamInfo": "If you're in search of the top eye specialists in Gurgaon, look no further than The Sight Avenue Hospital. Renowned for delivering exceptional eye care, The Sight Avenue stands as a leader in ophthalmology. With a team of highly qualified and experienced eye doctors, the hospital offers outstanding treatments, ensuring patients experience a swift recovery. Committed to the belief that every patient deserves superior eye care, their personalized approach guarantees that each individual receives tailored treatment with the highest level of care and attention. Choose The Sight Avenue Hospital for comprehensive eye care that puts your vision and overall well-being first.",
+    "infrastructure": "To establish ourselves as a global leader in eye care by delivering exceptional, world-class services that prioritize our patients' vision and overall eye health.To offer comprehensive, internationally recognized eye care through a team of dedicated and highly skilled professionals, upholding the highest standards of ethics and safety, ensuring our patients receive the best possible care and outcomes.",
+    "facilities": {
+      "comfort": [
+        "TV in Room",
+        "Private Rooms",
+        "Free Wifi",
+        "Phone in Room",
+        "Mobility Accessible Rooms",
+        "Family Accommodation"
+      ],
+      "money": [
+        "Health Insurance Coordination",
+        "Medical Travel Insurance",
+        "Foreign Currency Exchange",
+        "ATM",
+        "Credit Card",
+        "Debit Card",
+        "Netbanking"
+      ],
+      "food": [
+        "Diet on Request",
+        "Restaurant",
+        "International Cuisine"
+      ],
+      "treatment": [
+        "Online Doctor Consultation",
+        "Rehabilitation",
+        "Pharmacy",
+        "Document Legalisation",
+        "Post Operative Followup"
+      ]
+    }
+  },
+  {
+    "id": "fortis-hospital-noida",
+    "name": "Fortis Hospital Noida",
+    "city": "Noida",
+    "beds": "208",
+    "established": "2004",
+    "type": "Multispeciality Hospital",
+    "description": "Located in Sector 62, Noida, Fortis Hospital is a leading healthcare facility with over 200",
+    "about": "Located in Sector 62, Noida, Fortis Hospital is a leading healthcare facility with over 200 beds and 7 state-of-the-art operation theatres. Since its establishment in 2004, the hospital has emerged as the top tertiary healthcare center in the city. Fortis Hospital in Noida caters to a broad spectrum of healthcare needs and is known for pioneering several medical procedures in both India and Uttar Pradesh. Fortis Hospital, Mohali, was awarded the ‘National Award for Excellence in Energy Management, 2019’ by the Confederation of Indian Industry (CII). Fortis Healthcare also earned 10 awards across different categories at the FICCI Medical Travel Value Awards 2019, which were presented by the Federation of Indian Chambers of Commerce and Industry (FICCI) during the Advantage Health Care India 2019 Summit. Fortis Hospital has established the first active Liver Transplant program in Western UP, successfully completing over 750 liver transplants with a success rate exceeding 95%. Additionally, the hospital has performed over 10,000 successful knee surgeries.",
+    "departments": [
+      "Orthopedic & Joint Replacement",
+      "Neurology",
+      "Oncology",
+      "Urology & Kidney Transplant",
+      "Obstetrics & Gynaecology",
+      "Neurointerventional Surgery",
+      "Surgical Oncology"
+    ],
+    "address": "Fortis Hospital Noida, Block B, D Block, Sector 62, Noida, Uttar Pradesh, India",
+    "teamInfo": "Fortis Hospital Noida provides a wide array of medical services across various specialties, including cardiology, neurology, orthopedics, oncology, gastroenterology, nephrology, pulmonology, and more. The hospital's multi-disciplinary approach ensures that patients receive holistic and coordinated care. The hospital is staffed with a team of experienced and skilled doctors, surgeons, nurses, and healthcare professionals. These experts are dedicated to delivering the highest quality of care and are supported by continuous training and access to the latest medical",
+    "infrastructure": "Fortis Hospital is dedicated to advancing community health through a range of initiatives. These include organizing health camps, running awareness programs, and conducting preventive healthcare campaigns. By actively engaging with the community, the hospital promotes healthy living and aims to enhance disease prevention efforts.",
+    "facilities": {
+      "comfort": [
+        "TV in Room",
+        "Private Rooms",
+        "Free Wifi",
+        "Phone in Room",
+        "Mobility Accessible Rooms",
+        "Family Accommodation"
+      ],
+      "money": [
+        "Health Insurance Coordination",
+        "Medical Travel Insurance",
+        "Foreign Currency Exchange",
+        "ATM",
+        "Credit Card",
+        "Debit Card",
+        "Netbanking"
+      ],
+      "food": [
+        "Diet on Request",
+        "Restaurant",
+        "International Cuisine"
+      ],
+      "treatment": [
+        "Online Doctor Consultation",
+        "Rehabilitation",
+        "Pharmacy",
+        "Document Legalisation",
+        "Post Operative Followup"
+      ]
+    }
+  },
+  {
+    "id": "jaypee-hospital-noida",
+    "name": "Jaypee Hospital Noida",
+    "city": "Noida",
+    "beds": "1200",
+    "established": "2013",
+    "type": "Multispeciality Hospital",
+    "description": "Jaypee Hospital in Noida is the flagship institution of the Jaypee Group, marking the",
+    "about": "Jaypee Hospital in Noida is the flagship institution of the Jaypee Group, marking the group's entry into the healthcare sector with a mission to deliver exceptional medical The hospital is planned as a 1,200-bed tertiary care multi-specialty facility, with 504 beds operational in its initial phase. Dedicated to addressing the increasing healthcare needs of the community, Jaypee Hospital is committed to delivering quality and affordable care. As part of the Jaypee Group's mission, the hospital offers advanced healthcare services, state-of-the-art diagnostic tools, and the latest medical technologies, aiming to be the preferred choice",
+    "departments": [
+      "Cardiology",
+      "Orthopedic & Joint Replacement",
+      "Neurology",
+      "Oncology",
+      "Spine & Scoliosis Surgery",
+      "Paediatric Cardiac Care",
+      "Opthamology",
+      "Urology & Kidney Transplant",
+      "Neurointerventional Surgery",
+      "Medical Oncology",
+      "Surgical Oncology",
+      "Gynaecological Oncology",
+      "Paediatric Surgery"
+    ],
+    "address": "Jaypee Hospital, Jaypee Hospital Road, Goberdhanpur, Sector 128, Noida, Uttar Pradesh, India",
+    "teamInfo": "Jaypee Hospital offers extensive medical services across multiple specialties such as cardiology, neurology, orthopedics, oncology, and gastroenterology. The facility is outfitted with cutting-edge technology and modern amenities to provide high-quality care The hospital is home to a team of expert doctors, surgeons, and healthcare professionals committed to achieving optimal patient outcomes. This multidisciplinary team collaborates to create tailored and effective treatment plans for each individual. Jaypee Hospital features cutting-edge diagnostic tools and surgical equipment to ensure precise diagnoses and effective treatments. Its advanced diagnostic center, equipped with the latest imaging and laboratory technology, provides reliable results for superior At Jaypee Hospital, patient care and comfort are top priorities. The facility fosters a compassionate and supportive environment, focusing on personalized care, transparency, and ensuring overall patient satisfaction.",
+    "infrastructure": "Jaypee Hospital is dedicated to enhancing community health through initiatives such as health camps and awareness programs. The hospital engages in outreach efforts to educate the public on preventive care and healthy living. Jaypee Hospital Noida is committed to achieving excellence in healthcare, providing each patient with top-tier medical care within a compassionate and patient-centric",
+    "facilities": {
+      "comfort": [
+        "TV in Room",
+        "Private Rooms",
+        "Free Wifi",
+        "Phone in Room",
+        "Mobility Accessible Rooms",
+        "Family Accommodation"
+      ],
+      "money": [
+        "Health Insurance Coordination",
+        "Medical Travel Insurance",
+        "Foreign Currency Exchange",
+        "ATM",
+        "Credit Card",
+        "Debit Card",
+        "Netbanking"
+      ],
+      "food": [
+        "Diet on Request",
+        "Restaurant",
+        "International Cuisine"
+      ],
+      "treatment": [
+        "Online Doctor Consultation",
+        "Rehabilitation",
+        "Pharmacy",
+        "Document Legalisation",
+        "Post Operative Followup"
+      ]
+    }
+  },
+  {
+    "id": "yatharth-super-speciality-hospital-noida",
+    "name": "Yatharth Super Speciality Hospital Noida",
+    "city": "Noida",
+    "beds": "450",
+    "established": "2013",
+    "type": "Yatharth Super Speciality Hospital, Noida Extension, is dedicated to providing exceptional",
+    "description": "The hospital is home to several Centres of Excellence, each focusing on key areas such",
+    "about": "The hospital is home to several Centres of Excellence, each focusing on key areas such as cardiology, orthopaedics, spine and rheumatology, oncology, neurosciences, and nephrology, as well as urology and gastroenterology. Our experienced team of specialists and medical professionals strive to provide targeted, effective treatment options, including general surgeries and advanced procedures like cochlear implants, laparoscopic surgery, and cosmetic and plastic surgery. At Yatharth, our mission is to create a healing environment where quality care meets compassion. We aim to serve the community with integrity, placing patient welfare at the forefront of everything we do, supported by cutting-edge medical practices and a team dedicated to excellence in healthcare.",
+    "departments": [
+      "Cardiology",
+      "Orthopedic & Joint Replacement",
+      "Neurology",
+      "Spine & Scoliosis Surgery",
+      "Urology & Kidney Transplant",
+      "Liver Transplant & GI & HPB Surgery",
+      "Cardiac Thoracic & Vascular Surgery",
+      "Dermatology & Cosmetology",
+      "Medical Oncology",
+      "Surgical Oncology"
+    ],
+    "address": "Noida Extension Sector 1, extension, Bisrakh Jalalpur, Noida, Greater Noida, Uttar Pradesh",
+    "teamInfo": "Designed to meet international healthcare standards, Yatharth Super Speciality Hospital is fully equipped with advanced technology across all specialties. The hospital provides a broad spectrum of services in the field of neurology, cardiology, neurosurgery, cardiovascular and thoracic surgery, nephrology, urology, gastroenterology, orthopedics, pulmonology, and comprehensive mother and childcare",
+    "infrastructure": "Yatharth Hospitals are equipped with advanced, high-precision machines and devices designed to support our healthcare practitioners in delivering timely, efficient, and high-quality care. Our hospitals hold NABH accreditation, ensuring adherence to the highest standards of patient safety and care. Planned with international quality specifications, Yatharth Super Speciality Hospitals are outfitted with state-of-the-art technology across all specialties, including leading-edge equipment in areas such as cardiology, neurology, orthopedics, oncology, and critical The high-end Emergency Care unit features eight dedicated beds and includes a fully integrated minor operation theatre within the ER, enabling rapid response for critical",
+    "facilities": {
+      "comfort": [
+        "TV in Room",
+        "Private Rooms",
+        "Free Wifi",
+        "Phone in Room",
+        "Mobility Accessible Rooms",
+        "Family Accommodation"
+      ],
+      "money": [
+        "Health Insurance Coordination",
+        "Medical Travel Insurance",
+        "Foreign Currency Exchange",
+        "ATM",
+        "Credit Card",
+        "Debit Card",
+        "Netbanking"
+      ],
+      "food": [
+        "Diet on Request",
+        "Restaurant",
+        "International Cuisine"
+      ],
+      "treatment": [
+        "Online Doctor Consultation",
+        "Rehabilitation",
+        "Pharmacy",
+        "Document Legalisation",
+        "Post Operative Followup"
+      ]
+    }
+  }
+]

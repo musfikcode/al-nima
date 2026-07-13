@@ -1,0 +1,68 @@
+[
+  {
+    "id": "doc_001",
+    "name": "Dr. Rajesh Kumar",
+    "departmentId": "dept_001",
+    "hospitalId": "hosp_001",
+    "specialization": "Interventional Cardiologist",
+    "qualification": "MBBS, MD, DM (Cardiology)",
+    "experience": "15 years",
+    "image": "assets/images/doctor/doctor1.jpg",
+    "languages": ["English", "Hindi"]
+  },
+  {
+    "id": "doc_002",
+    "name": "Dr. Priya Sharma",
+    "departmentId": "dept_002",
+    "hospitalId": "hosp_001",
+    "specialization": "Orthopedic Surgeon",
+    "qualification": "MBBS, MS (Orthopedics)",
+    "experience": "12 years",
+    "image": "assets/images/doctor/doctor2.jpg",
+    "languages": ["English", "Hindi"]
+  },
+  {
+    "id": "doc_003",
+    "name": "Dr. Amit Patel",
+    "departmentId": "dept_003",
+    "hospitalId": "hosp_001",
+    "specialization": "Neurologist",
+    "qualification": "MBBS, MD, DM (Neurology)",
+    "experience": "18 years",
+    "image": "assets/images/doctor/doctor3.jpg",
+    "languages": ["English", "Hindi", "Gujarati"]
+  },
+  {
+    "id": "doc_004",
+    "name": "Dr. Sarah Johnson",
+    "departmentId": "dept_004",
+    "hospitalId": "hosp_001",
+    "specialization": "Medical Oncologist",
+    "qualification": "MBBS, MD, DM (Oncology)",
+    "experience": "10 years",
+    "image": "assets/images/doctor/doctor4.jpg",
+    "languages": ["English"]
+  },
+  {
+    "id": "doc_005",
+    "name": "Dr. Vikram Singh",
+    "departmentId": "dept_005",
+    "hospitalId": "hosp_002",
+    "specialization": "Cardiac Surgeon",
+    "qualification": "MBBS, MS, MCh (Cardiothoracic Surgery)",
+    "experience": "20 years",
+    "image": "assets/images/doctor/doctor5.jpg",
+    "languages": ["English", "Hindi", "Punjabi"]
+  },
+  {
+    "id": "doc_006",
+    "name": "Dr. Anita Reddy",
+    "departmentId": "dept_007",
+    "hospitalId": "hosp_003",
+    "specialization": "Cardiologist",
+    "qualification": "MBBS, MD, DM (Cardiology)",
+    "experience": "14 years",
+    "image": "assets/images/doctor/doctor6.jpg",
+    "languages": ["English", "Hindi", "Telugu"]
+  }
+]

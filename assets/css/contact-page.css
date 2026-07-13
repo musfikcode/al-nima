@@ -1,0 +1,223 @@
+/* Contact Page Custom Styling */
+
+.rts-contact-top-wrapper {
+    background: #f8f9fa;
+}
+
+.rts-contact-top-wrapper .title {
+    font-size: 36px;
+    font-weight: 700;
+    color: #1a3c5e;
+    margin-bottom: 15px;
+}
+
+.rts-contact-top-wrapper p {
+    font-size: 16px;
+    color: #666;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.single-contact-information-card {
+    background: #fff;
+    padding: 40px 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+    text-align: center;
+    transition: all 0.3s ease;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.single-contact-information-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 8px 30px rgba(0,168,232,0.15);
+}
+
+.single-contact-information-card .icon {
+    width: 80px;
+    height: 80px;
+    background: linear-gradient(135deg, #00a8e8 0%, #0077b6 100%);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 25px;
+    transition: all 0.3s ease;
+}
+
+.single-contact-information-card:hover .icon {
+    transform: scale(1.1);
+}
+
+.single-contact-information-card .icon i {
+    font-size: 36px;
+    color: #fff;
+}
+
+.single-contact-information-card .title {
+    font-size: 20px;
+    font-weight: 700;
+    color: #1a3c5e;
+    margin-bottom: 20px;
+}
+
+.single-contact-information-card .info {
+    width: 100%;
+}
+
+.single-contact-information-card .info p {
+    margin-bottom: 12px;
+    font-size: 15px;
+    color: #444;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+}
+
+.single-contact-information-card .info p:last-child {
+    margin-bottom: 0;
+}
+
+.single-contact-information-card .info p i {
+    color: #00a8e8;
+    font-size: 16px;
+}
+
+.single-contact-information-card .info p i.fa-whatsapp {
+    color: #25D366;
+    font-size: 18px;
+}
+
+.single-contact-information-card .info a {
+    color: #444;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+}
+
+.single-contact-information-card .info a:hover {
+    color: #00a8e8;
+}
+
+.single-contact-information-card .info a.email-link {
+    word-break: break-all;
+    font-size: 14px;
+    line-height: 1.6;
+}
+
+.single-contact-information-card .info .availability {
+    color: #28a745;
+    font-weight: 600;
+    margin-top: 10px;
+}
+
+/* Responsive Design */
+@media (max-width: 991px) {
+    .single-contact-information-card {
+        padding: 30px 20px;
+        margin-bottom: 20px;
+    }
+    
+    .rts-contact-top-wrapper .title {
+        font-size: 28px;
+    }
+}
+
+@media (max-width: 767px) {
+    .single-contact-information-card {
+        padding: 25px 15px;
+    }
+    
+    .single-contact-information-card .icon {
+        width: 70px;
+        height: 70px;
+    }
+    
+    .single-contact-information-card .icon i {
+        font-size: 30px;
+    }
+    
+    .single-contact-information-card .title {
+        font-size: 18px;
+    }
+    
+    .rts-contact-top-wrapper .title {
+        font-size: 24px;
+    }
+}
+
+/* Contact Form Styling */
+.contact-form-area-start {
+    background: #fff;
+}
+
+.contact-form-area-start .appoinment-area-main {
+    padding: 50px;
+    border-radius: 15px;
+}
+
+.contact-form-area-start input,
+.contact-form-area-start textarea,
+.contact-form-area-start select {
+    border: 2px solid #e0e0e0;
+    border-radius: 8px;
+    padding: 15px 20px;
+    font-size: 15px;
+    transition: all 0.3s ease;
+}
+
+.contact-form-area-start input:focus,
+.contact-form-area-start textarea:focus,
+.contact-form-area-start select:focus {
+    border-color: #00a8e8;
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(0,168,232,0.1);
+}
+
+.contact-form-area-start textarea {
+    min-height: 150px;
+    resize: vertical;
+}
+
+.contact-form-area-start .rts-btn {
+    padding: 15px 40px;
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 8px;
+}
+
+/* WhatsApp Button Styling */
+.whatsapp-float {
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    bottom: 40px;
+    right: 40px;
+    background-color: #25D366;
+    color: #FFF;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 2px 2px 10px rgba(0,0,0,0.3);
+    z-index: 100;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+}
+
+.whatsapp-float:hover {
+    background-color: #128C7E;
+    transform: scale(1.1);
+}
+
+.whatsapp-float i {
+    margin-top: 0;
+}

@@ -1,0 +1,13 @@
+{
+  "name": "al-nima-website",
+  "version": "1.0.0",
+  "description": "Al-Nima Global Health Services - Medical Tourism Website",
+  "dependencies": {
+    "@notionhq/client": "^2.2.15"
+  },
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'Static site - no build needed'",
+    "deploy": "vercel --prod"
+  }
+}

@@ -1,0 +1,118 @@
+/* Hero Section Dropdown Scrollable Fix */
+.banner-area-one .select-area-down .nice-select .list {
+    max-height: 250px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+/* Custom scrollbar styling for better UX */
+.banner-area-one .select-area-down .nice-select .list::-webkit-scrollbar {
+    width: 8px;
+}
+
+.banner-area-one .select-area-down .nice-select .list::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 4px;
+}
+
+.banner-area-one .select-area-down .nice-select .list::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 4px;
+}
+
+.banner-area-one .select-area-down .nice-select .list::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+/* Fix dropdown width and prevent overlap */
+.banner-area-one .select-area-down .nice-select {
+    max-width: 280px;
+    min-width: 200px;
+    flex-shrink: 1;
+}
+
+/* Truncate long text in dropdown current value */
+.banner-area-one .select-area-down .nice-select .current {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    display: block;
+    padding-right: 30px;
+}
+
+/* Truncate long text in dropdown options */
+.banner-area-one .select-area-down .nice-select .list .option {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+/* Ensure proper spacing between elements */
+.banner-area-one .select-area-down {
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.banner-area-one .select-area-down form {
+    flex: 1;
+    min-width: 200px;
+    max-width: 280px;
+}
+
+.banner-area-one .select-area-down .rts-btn {
+    flex-shrink: 0;
+    white-space: nowrap;
+}
+
+/* Responsive adjustments */
+@media only screen and (max-width: 767px) {
+    .banner-area-one .select-area-down {
+        flex-direction: column;
+        width: 100%;
+    }
+    
+    .banner-area-one .select-area-down form,
+    .banner-area-one .select-area-down .nice-select {
+        width: 100%;
+        max-width: 100%;
+    }
+    
+    .banner-area-one .select-area-down .rts-btn {
+        width: 100%;
+    }
+}
+
+/* Book Your Consulting Section Dropdown Scrollable Fix */
+.book-your-consulting .nice-select .list.scrollable-dropdown {
+    max-height: 200px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+/* Custom scrollbar styling for Book Your Consulting dropdowns */
+.book-your-consulting .nice-select .list.scrollable-dropdown::-webkit-scrollbar {
+    width: 8px;
+}
+
+.book-your-consulting .nice-select .list.scrollable-dropdown::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 4px;
+}
+
+.book-your-consulting .nice-select .list.scrollable-dropdown::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 4px;
+}
+
+.book-your-consulting .nice-select .list.scrollable-dropdown::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+/* Truncate long text in dropdown options */
+.book-your-consulting .nice-select .list.scrollable-dropdown .option {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}

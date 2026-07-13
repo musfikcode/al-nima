@@ -1,0 +1,483 @@
+/* Service Pages Styling */
+
+.rts-service-details-area {
+    padding: 80px 0;
+}
+
+.service-details-content {
+    background: #fff;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+}
+
+.service-details-content .title-area {
+    margin-bottom: 30px;
+}
+
+.service-details-content .pre-title {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    color: #00a8e8;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+
+.service-details-content .pre-title img {
+    width: 20px;
+    height: 20px;
+}
+
+.service-details-content .title {
+    font-size: 36px;
+    font-weight: 700;
+    color: #1a3c5e;
+    margin: 0;
+}
+
+.service-description p {
+    font-size: 16px;
+    line-height: 1.8;
+    color: #666;
+}
+
+.service-features {
+    background: #f8f9fa;
+    padding: 30px;
+    border-radius: 8px;
+}
+
+.service-features .subtitle {
+    font-size: 24px;
+    font-weight: 600;
+    color: #1a3c5e;
+    margin-bottom: 20px;
+}
+
+.feature-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.feature-list li {
+    padding: 12px 0;
+    font-size: 16px;
+    color: #444;
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+}
+
+.feature-list li i {
+    color: #00a8e8;
+    font-size: 18px;
+    margin-top: 2px;
+}
+
+.cta-section {
+    margin-top: 50px;
+}
+
+.cta-box {
+    background: linear-gradient(135deg, #00a8e8 0%, #0077b6 100%);
+    padding: 40px;
+    border-radius: 10px;
+    text-align: center;
+    color: #fff;
+}
+
+.cta-box h3 {
+    font-size: 28px;
+    font-weight: 700;
+    margin-bottom: 15px;
+    color: #fff;
+}
+
+.cta-box p {
+    font-size: 16px;
+    margin-bottom: 25px;
+    color: rgba(255,255,255,0.9);
+}
+
+.cta-box .rts-btn {
+    background: #fff;
+    color: #00a8e8;
+    padding: 15px 40px;
+    font-weight: 600;
+}
+
+.cta-box .rts-btn:hover {
+    background: #f0f0f0;
+    transform: translateY(-2px);
+}
+
+/* Sidebar Styling */
+.service-sidebar {
+    position: sticky;
+    top: 100px;
+}
+
+.sidebar-widget {
+    background: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+}
+
+.sidebar-widget .widget-title {
+    font-size: 20px;
+    font-weight: 700;
+    color: #1a3c5e;
+    margin-bottom: 25px;
+    padding-bottom: 15px;
+    border-bottom: 2px solid #00a8e8;
+}
+
+.hospital-list {
+    max-height: 500px;
+    overflow-y: auto;
+}
+
+.hospital-item {
+    padding: 20px;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    margin-bottom: 15px;
+    transition: all 0.3s ease;
+}
+
+.hospital-item:hover {
+    border-color: #00a8e8;
+    box-shadow: 0 4px 12px rgba(0,168,232,0.1);
+    transform: translateY(-2px);
+}
+
+.hospital-item h4 {
+    font-size: 16px;
+    font-weight: 600;
+    color: #1a3c5e;
+    margin-bottom: 8px;
+}
+
+.hospital-item p {
+    font-size: 14px;
+    color: #666;
+    margin-bottom: 10px;
+}
+
+.hospital-item p i {
+    color: #00a8e8;
+    margin-right: 5px;
+}
+
+.hospital-item .view-link {
+    color: #00a8e8;
+    font-size: 14px;
+    font-weight: 600;
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    transition: all 0.3s ease;
+}
+
+.hospital-item .view-link:hover {
+    gap: 10px;
+}
+
+.contact-info {
+    padding: 20px;
+    background: #f8f9fa;
+    border-radius: 8px;
+}
+
+.contact-info p {
+    margin-bottom: 15px;
+    font-size: 15px;
+    color: #444;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.contact-info p:last-child {
+    margin-bottom: 0;
+}
+
+.contact-info i {
+    color: #00a8e8;
+    font-size: 18px;
+}
+
+/* Responsive Design */
+@media (max-width: 991px) {
+    .service-sidebar {
+        position: static;
+        margin-top: 40px;
+    }
+    
+    .service-details-content {
+        padding: 30px 20px;
+    }
+    
+    .service-details-content .title {
+        font-size: 28px;
+    }
+}
+
+@media (max-width: 767px) {
+    .rts-service-details-area {
+        padding: 40px 0;
+    }
+    
+    .service-details-content .title {
+        font-size: 24px;
+    }
+    
+    .service-features .subtitle {
+        font-size: 20px;
+    }
+    
+    .cta-box {
+        padding: 30px 20px;
+    }
+    
+    .cta-box h3 {
+        font-size: 22px;
+    }
+}
+
+
+/* Services Listing Page */
+.rts-services-listing-area {
+    padding: 80px 0;
+    background: #f8f9fa;
+}
+
+.rts-services-listing-area .title-area {
+    margin-bottom: 50px;
+}
+
+.rts-services-listing-area .pre-title {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    color: #00a8e8;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+
+.rts-services-listing-area .pre-title img {
+    width: 20px;
+    height: 20px;
+}
+
+.rts-services-listing-area .title {
+    font-size: 42px;
+    font-weight: 700;
+    color: #1a3c5e;
+    margin-bottom: 15px;
+}
+
+.rts-services-listing-area .description {
+    font-size: 18px;
+    color: #666;
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.service-card {
+    background: #fff;
+    padding: 35px 30px;
+    border-radius: 12px;
+    box-shadow: 0 2px 15px rgba(0,0,0,0.08);
+    transition: all 0.3s ease;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.service-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 8px 25px rgba(0,168,232,0.15);
+}
+
+.service-card .icon {
+    width: 70px;
+    height: 70px;
+    background: linear-gradient(135deg, #00a8e8 0%, #0077b6 100%);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 25px;
+    transition: all 0.3s ease;
+}
+
+.service-card:hover .icon {
+    transform: scale(1.1);
+}
+
+.service-card .icon i {
+    font-size: 32px;
+    color: #fff;
+}
+
+.service-card h3 {
+    font-size: 20px;
+    font-weight: 700;
+    color: #1a3c5e;
+    margin-bottom: 15px;
+    min-height: 50px;
+}
+
+.service-card p {
+    font-size: 15px;
+    color: #666;
+    line-height: 1.7;
+    margin-bottom: 20px;
+    flex-grow: 1;
+}
+
+.service-card .read-more {
+    color: #00a8e8;
+    font-weight: 600;
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    transition: all 0.3s ease;
+}
+
+.service-card .read-more:hover {
+    gap: 12px;
+    color: #0077b6;
+}
+
+.service-card .read-more i {
+    font-size: 14px;
+}
+
+.rts-services-listing-area .cta-section {
+    background: linear-gradient(135deg, #00a8e8 0%, #0077b6 100%);
+    padding: 60px 40px;
+    border-radius: 15px;
+    color: #fff;
+}
+
+.rts-services-listing-area .cta-section h3 {
+    font-size: 32px;
+    font-weight: 700;
+    margin-bottom: 15px;
+    color: #fff;
+}
+
+.rts-services-listing-area .cta-section p {
+    font-size: 18px;
+    margin-bottom: 30px;
+    color: rgba(255,255,255,0.95);
+}
+
+.button-group {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.button-group .rts-btn {
+    padding: 15px 40px;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.button-group .btn-primary {
+    background: #fff;
+    color: #00a8e8;
+}
+
+.button-group .btn-primary:hover {
+    background: #f0f0f0;
+    transform: translateY(-2px);
+}
+
+.button-group .btn-secondary {
+    background: transparent;
+    color: #fff;
+    border: 2px solid #fff;
+}
+
+.button-group .btn-secondary:hover {
+    background: #fff;
+    color: #00a8e8;
+    transform: translateY(-2px);
+}
+
+/* Responsive Design for Services Listing */
+@media (max-width: 991px) {
+    .rts-services-listing-area .title {
+        font-size: 36px;
+    }
+    
+    .service-card {
+        padding: 30px 25px;
+    }
+    
+    .service-card h3 {
+        min-height: auto;
+    }
+}
+
+@media (max-width: 767px) {
+    .rts-services-listing-area {
+        padding: 50px 0;
+    }
+    
+    .rts-services-listing-area .title {
+        font-size: 28px;
+    }
+    
+    .rts-services-listing-area .description {
+        font-size: 16px;
+    }
+    
+    .service-card {
+        padding: 25px 20px;
+    }
+    
+    .service-card .icon {
+        width: 60px;
+        height: 60px;
+    }
+    
+    .service-card .icon i {
+        font-size: 28px;
+    }
+    
+    .service-card h3 {
+        font-size: 18px;
+    }
+    
+    .rts-services-listing-area .cta-section {
+        padding: 40px 25px;
+    }
+    
+    .rts-services-listing-area .cta-section h3 {
+        font-size: 24px;
+    }
+    
+    .rts-services-listing-area .cta-section p {
+        font-size: 16px;
+    }
+    
+    .button-group {
+        flex-direction: column;
+        gap: 15px;
+    }
+    
+    .button-group .rts-btn {
+        width: 100%;
+    }
+}

@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Request Appointment - Medical Directory</title>
+    <link rel="stylesheet" href="assets/css/vendor/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/plugins/plugins.css">
+    <style>
+        .appointment-form {
+            background: white;
+            padding: 40px;
+            border-radius: 10px;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+            margin: 40px 0;
+        }
+        .form-step {
+            display: none;
+        }
+        .form-step.active {
+            display: block;
+        }
+        .step-indicator {
+            display: flex;
+            justify-content: center;
+            margin-bottom: 30px;
+        }
+        .step {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            background: #e9ecef;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 0 10px;
+            font-weight: bold;
+            color: #6c757d;
+        }
+        .step.active {
+            background: #1a73e8;
+            color: white;
+        }
+        .step.completed {
+            background: #28a745;
+            color: white;
+        }
+        .btn-primary {
+            background: #1a73e8;
+            border: none;
+            padding: 12px 30px;
+        }
+        .btn-primary:hover {
+            background: #1557b0;
+        }
+        .selection-card {
+            border: 2px solid #e9ecef;
+            border-radius: 8px;
+            padding: 20px;
+            margin-bottom: 20px;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+        .selection-card:hover {
+            border-color: #1a73e8;
+            background: #f8f9ff;
+        }
+        .selection-card.selected {
+            border-color: #1a73e8;
+            background: #f8f9ff;
+        }
+        .urgency-options {
+            display: flex;
+            gap: 15px;
+            flex-wrap: wrap;
+        }
+        .urgency-option {
+            flex: 1;
+            min-width: 150px;
+            padding: 15px;
+            border: 2px solid #e9ecef;
+            border-radius: 8px;
+            text-align: center;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+        .urgency-option:hover {
+            border-color: #1a73e8;
+        }
+        .urgency-option.selected {
+            border-color: #1a73e8;
+            background: #f8f9ff;
+        }
+        .alert {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <header class="header-area">
+        <div class="container-full-header">
+            <div class="row">
+                <div class="col-lg-12">
+                    <nav class="navbar navbar-expand-lg">
+                        <a class="navbar-brand" href="index.html">
+                            <img src="assets/images/logo/logo.png" alt="Medical Directory">
+                        </a>
+                        <div class="navbar-nav ms-auto">
+                            <a class="nav-link" href="index.html">Home</a>
+                            <a class="nav-link" href="about.html">About</a>
+                            <a class="nav-link active" href="appointment-form.html">Book Appointment</a>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="main-content">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-10">
+                    <div class="appointment-form">
+                        <h2 class="text-center mb-4">Request Medical Appointment</h2>
+                        <p class="text-center text-muted mb-4">Fill out the form below and our team will contact you within 24 hours to confirm your appointment.</p>
+                        
+                        <!-- Step Indicator -->
+                        <div class="step-indicator">
+                            <div class="step active" id="step1">1</div>
+                            <div class="step" id="step2">2</div>
+                            <div class="step" id="step3">3</div>
+                            <div class="step" id="step4">4</div>
+                        </div>
+
+                        <form id="appointmentForm">
+                            <!-- Step 1: Location & Hospital Selection -->
+                            <div class="form-step active" id="formStep1">
+                                <h4 class="mb-4">Step 1: Select Location & Hospital</h4>
+                                <div class="row">
+                                    <div class="col-md-6 mb-3">
+                                        <label class="form-label">Select City *</label>
+                                        <select class="form-control" name="cityId" id="citySelect" required>
+                                            <option value="">Choose your city...</option>
+                                        </select>
+                                    </div>
+                                    <div class="col-md-6 mb-3">
+                                        <label class="form-label">Select Hospital *</label>
+                                        <select class="form-control" name="hospitalId" id="hospitalSelect" required>
+                                            <option value="">First select a city...</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="text-end">
+                                    <button type="button" class="btn btn-primary" onclick="nextStep(2)">Next Step</button>
+                                </div>
+                            </div>
+
+                            <!-- Step 2: Department & Doctor Selection -->
+                            <div class="form-step" id="formStep2">
+                                <h4 class="mb-4">Step 2: Select Department & Doctor</h4>
+                                <div class="row">
+                                    <div class="col-md-6 mb-3">
+                                        <label class="form-label">Select Department *</label>
+                                        <select class="form-control" name="departmentId" id="departmentSelect" required>
+                                            <option value="">First select a hospital...</option>
+                                        </select>
+                                    </div>
+                                    <div class="col-md-6 mb-3">
+                                        <label class="form-label">Select Doctor</label>
+                                        <select class="form-control" name="doctorId" id="doctorSelect">
+                                            <option value="">Any available doctor</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="d-flex justify-content-between">
+                                    <button type="button" class="btn btn-secondary" onclick="prevStep(1)">Previous</button>
+                                    <button type="button" class="btn btn-primary" onclick="nextStep(3)">Next Step</button>
+                                </div>
+                            </div>
+
+                            <!-- Step 3: Patient Information -->
+                            <div class="form-step" id="formStep3">
+                                <h4 class="mb-4">Step 3: Patient Information</h4>
+                                <div class="row">
+                                    <div class="col-md-6 mb-3">
+                                        <label class="form-label">Full Name *</label>
+                                        <input type="text" class="form-control" name="patientName" required>
+                                    </div>
+                                    <div class="col-md-6 mb-3">
+                                        <label class="form-label">Email Address *</label>
+                                        <input type="email" class="form-control" name="patientEmail" required>
+                                    </div>
+                                    <div class="col-md-4 mb-3">
+                                        <label class="form-label">Phone Number *</label>
+                                        <input type="tel" class="form-control" name="patientPhone" required>
+                                    </div>
+                                    <div class="col-md-4 mb-3">
+                                        <label class="form-label">Age *</label>
+                                        <input type="number" class="form-control" name="patientAge" min="1" max="120" required>
+                                    </div>
+                                    <div class="col-md-4 mb-3">
+                                        <label class="form-label">Gender *</label>
+                                        <select class="form-control" name="patientGender" required>
+                                            <option value="">Select...</option>
+                                            <option value="Male">Male</option>
+                                            <option value="Female">Female</option>
+                                            <option value="Other">Other</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="d-flex justify-content-between">
+                                    <button type="button" class="btn btn-secondary" onclick="prevStep(2)">Previous</button>
+                                    <button type="button" class="btn btn-primary" onclick="nextStep(4)">Next Step</button>
+                                </div>
+                            </div>
+
+                            <!-- Step 4: Appointment Details -->
+                            <div class="form-step" id="formStep4">
+                                <h4 class="mb-4">Step 4: Appointment Details</h4>
+                                <div class="row">
+                                    <div class="col-md-6 mb-3">
+                                        <label class="form-label">Preferred Date *</label>
+                                        <input type="date" class="form-control" name="preferredDate" required>
+                                    </div>
+                                    <div class="col-md-6 mb-3">
+                                        <label class="form-label">Preferred Time</label>
+                                        <select class="form-control" name="preferredTime">
+                                            <option value="">Any time</option>
+                                            <option value="Morning (9 AM - 12 PM)">Morning (9 AM - 12 PM)</option>
+                                            <option value="Afternoon (12 PM - 5 PM)">Afternoon (12 PM - 5 PM)</option>
+                                            <option value="Evening (5 PM - 8 PM)">Evening (5 PM - 8 PM)</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                
+                                <div class="mb-4">
+                                    <label class="form-label">Urgency Level *</label>
+                                    <div class="urgency-options">
+                                        <div class="urgency-option" data-value="Routine">
+                                            <strong>Routine</strong><br>
+                                            <small>Within 2-4 weeks</small>
+                                        </div>
+                                        <div class="urgency-option" data-value="Priority">
+                                            <strong>Priority</strong><br>
+                                            <small>Within 1 week</small>
+                                        </div>
+                                        <div class="urgency-option" data-value="Urgent">
+                                            <strong>Urgent</strong><br>
+                                            <small>Within 1-2 days</small>
+                                        </div>
+                                    </div>
+                                    <input type="hidden" name="urgency" id="urgencyInput" required>
+                                </div>
+
+                                <div class="mb-3">
+                                    <label class="form-label">Symptoms / Reason for Visit</label>
+                                    <textarea class="form-control" name="symptoms" rows="3" placeholder="Briefly describe your symptoms or reason for the appointment..."></textarea>
+                                </div>
+
+                                <div class="mb-4">
+                                    <label class="form-label">Medical History (Optional)</label>
+                                    <textarea class="form-control" name="medicalHistory" rows="3" placeholder="Any relevant medical history, current medications, allergies..."></textarea>
+                                </div>
+
+                                <div class="d-flex justify-content-between">
+                                    <button type="button" class="btn btn-secondary" onclick="prevStep(3)">Previous</button>
+                                    <button type="submit" class="btn btn-primary btn-lg">Submit Appointment Request</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Scripts -->
+    <script src="js/appointment.js"></script>
+    <script>
+        // Multi-step form navigation
+        let currentStep = 1;
+
+        function nextStep(step) {
+            if (validateCurrentStep()) {
+                showStep(step);
+            }
+        }
+
+        function prevStep(step) {
+            showStep(step);
+        }
+
+        function showStep(step) {
+            // Hide all steps
+            document.querySelectorAll('.form-step').forEach(s => s.classList.remove('active'));
+            document.querySelectorAll('.step').forEach(s => s.classList.remove('active', 'completed'));
+            
+            // Show current step
+            document.getElementById(`formStep${step}`).classList.add('active');
+            document.getElementById(`step${step}`).classList.add('active');
+            
+            // Mark previous steps as completed
+            for (let i = 1; i < step; i++) {
+                document.getElementById(`step${i}`).classList.add('completed');
+            }
+            
+            currentStep = step;
+        }
+
+        function validateCurrentStep() {
+            const currentStepElement = document.getElementById(`formStep${currentStep}`);
+            const requiredFields = currentStepElement.querySelectorAll('[required]');
+            
+            for (let field of requiredFields) {
+                if (!field.value.trim()) {
+                    field.focus();
+                    alert('Please fill in all required fields before proceeding.');
+                    return false;
+                }
+            }
+            return true;
+        }
+
+        // Urgency selection
+        document.querySelectorAll('.urgency-option').forEach(option => {
+            option.addEventListener('click', () => {
+                document.querySelectorAll('.urgency-option').forEach(o => o.classList.remove('selected'));
+                option.classList.add('selected');
+                document.getElementById('urgencyInput').value = option.dataset.value;
+            });
+        });
+
+        // Set minimum date to today
+        document.addEventListener('DOMContentLoaded', () => {
+            const dateInput = document.querySelector('input[name="preferredDate"]');
+            if (dateInput) {
+                const today = new Date().toISOString().split('T')[0];
+                dateInput.min = today;
+            }
+        });
+    </script>
+
+<!-- Google Translate Widget -->
+<div id="google_translate_element" style="position: fixed; bottom: 20px; right: 20px; z-index: 9999;"></div>
+<script type="text/javascript">
+  function googleTranslateElementInit() {
+    new google.translate.TranslateElement({
+      pageLanguage: 'en',
+      layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+    }, 'google_translate_element');
+  }
+</script>
+<script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+</body>
+</html>

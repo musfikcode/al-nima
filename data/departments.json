@@ -1,0 +1,58 @@
+[
+  {
+    "id": "dept_001",
+    "name": "Cardiology",
+    "hospitalId": "hosp_001",
+    "description": "Heart and cardiovascular care",
+    "icon": "fa-heart-pulse"
+  },
+  {
+    "id": "dept_002",
+    "name": "Orthopedics",
+    "hospitalId": "hosp_001",
+    "description": "Bone and joint treatment",
+    "icon": "fa-bone"
+  },
+  {
+    "id": "dept_003",
+    "name": "Neurology",
+    "hospitalId": "hosp_001",
+    "description": "Brain and nervous system care",
+    "icon": "fa-brain"
+  },
+  {
+    "id": "dept_004",
+    "name": "Oncology",
+    "hospitalId": "hosp_001",
+    "description": "Cancer treatment and care",
+    "icon": "fa-ribbon"
+  },
+  {
+    "id": "dept_005",
+    "name": "Cardiology",
+    "hospitalId": "hosp_002",
+    "description": "Heart and cardiovascular care",
+    "icon": "fa-heart-pulse"
+  },
+  {
+    "id": "dept_006",
+    "name": "Gastroenterology",
+    "hospitalId": "hosp_002",
+    "description": "Digestive system care",
+    "icon": "fa-stomach"
+  },
+  {
+    "id": "dept_007",
+    "name": "Cardiology",
+    "hospitalId": "hosp_003",
+    "description": "Heart and cardiovascular care",
+    "icon": "fa-heart-pulse"
+  },
+  {
+    "id": "dept_008",
+    "name": "Nephrology",
+    "hospitalId": "hosp_003",
+    "description": "Kidney care and treatment",
+    "icon": "fa-kidneys"
+  }
+]
