@@ -158,15 +158,16 @@ class AppointmentSystem {
         appointmentData.departmentName = this.departments.find(d => d.id === appointmentData.departmentId)?.name || '';
         appointmentData.doctorName = this.doctors.find(d => d.id === appointmentData.doctorId)?.name || '';
 
+        const submitBtn = e.target.querySelector('button[type="submit"]');
+        const originalText = submitBtn.textContent;
+
         try {
             // Show loading state
-            const submitBtn = e.target.querySelector('button[type="submit"]');
-            const originalText = submitBtn.textContent;
             submitBtn.textContent = 'Submitting...';
             submitBtn.disabled = true;
 
-            // Send to Notion
-            await this.sendToNotion(appointmentData);
+            // Send directly to Google Sheets via Apps Script Web App
+            await this.sendToGoogleSheets(appointmentData);
             
             // Show success message
             this.showSuccessMessage();
@@ -178,27 +179,32 @@ class AppointmentSystem {
             this.showErrorMessage();
         } finally {
             // Reset button
-            const submitBtn = e.target.querySelector('button[type="submit"]');
             submitBtn.textContent = originalText;
             submitBtn.disabled = false;
         }
     }
 
-    async sendToNotion(appointmentData) {
-        // This will be called from the backend to avoid CORS issues
-        const response = await fetch('/api/submit-appointment', {
-            method: 'POST',
-            headers: {
-                'Content-Type': 'application/json',
-            },
-            body: JSON.stringify(appointmentData)
-        });
+    async sendToGoogleSheets(appointmentData) {
+        // ─────────────────────────────────────────────────────────────────
+        // STEP: Paste your Google Apps Script Web App URL below.
+        // See GOOGLE_SHEETS_SETUP.md for step-by-step instructions.
+        // ─────────────────────────────────────────────────────────────────
+        const APPS_SCRIPT_URL = 'YOUR_GOOGLE_APPS_SCRIPT_WEB_APP_URL';
 
-        if (!response.ok) {
-            throw new Error('Failed to submit appointment');
+        if (APPS_SCRIPT_URL === 'YOUR_GOOGLE_APPS_SCRIPT_WEB_APP_URL') {
+            throw new Error('Google Apps Script URL not configured. See GOOGLE_SHEETS_SETUP.md.');
         }
 
-        return response.json();
+        // Google Apps Script does not return CORS headers for all response types,
+        // so we use 'no-cors'. The row is still written to the sheet on the server side.
+        await fetch(APPS_SCRIPT_URL, {
+            method: 'POST',
+            mode: 'no-cors',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify(appointmentData)
+        });
+        // With no-cors, the response is opaque — we can't read it.
+        // The Apps Script always writes the row; any network error will throw above.
     }
 
     clearAllSelects() {
