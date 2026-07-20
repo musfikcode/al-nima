@@ -8,7 +8,10 @@
     "qualification": "MBBS, MD, DM (Cardiology)",
     "experience": "15 years",
     "image": "assets/images/doctor/doctor1.jpg",
-    "languages": ["English", "Hindi"]
+    "languages": [
+      "English",
+      "Hindi"
+    ]
   },
   {
     "id": "doc_002",
@@ -19,7 +22,10 @@
     "qualification": "MBBS, MS (Orthopedics)",
     "experience": "12 years",
     "image": "assets/images/doctor/doctor2.jpg",
-    "languages": ["English", "Hindi"]
+    "languages": [
+      "English",
+      "Hindi"
+    ]
   },
   {
     "id": "doc_003",
@@ -30,7 +36,11 @@
     "qualification": "MBBS, MD, DM (Neurology)",
     "experience": "18 years",
     "image": "assets/images/doctor/doctor3.jpg",
-    "languages": ["English", "Hindi", "Gujarati"]
+    "languages": [
+      "English",
+      "Hindi",
+      "Gujarati"
+    ]
   },
   {
     "id": "doc_004",
@@ -41,7 +51,9 @@
     "qualification": "MBBS, MD, DM (Oncology)",
     "experience": "10 years",
     "image": "assets/images/doctor/doctor4.jpg",
-    "languages": ["English"]
+    "languages": [
+      "English"
+    ]
   },
   {
     "id": "doc_005",
@@ -52,7 +64,11 @@
     "qualification": "MBBS, MS, MCh (Cardiothoracic Surgery)",
     "experience": "20 years",
     "image": "assets/images/doctor/doctor5.jpg",
-    "languages": ["English", "Hindi", "Punjabi"]
+    "languages": [
+      "English",
+      "Hindi",
+      "Punjabi"
+    ]
   },
   {
     "id": "doc_006",
@@ -63,6 +79,542 @@
     "qualification": "MBBS, MD, DM (Cardiology)",
     "experience": "14 years",
     "image": "assets/images/doctor/doctor6.jpg",
-    "languages": ["English", "Hindi", "Telugu"]
+    "languages": [
+      "English",
+      "Hindi",
+      "Telugu"
+    ]
+  },
+  {
+    "id": "doc_007",
+    "name": "Dr. Ashok Seth",
+    "departmentId": "dept_new",
+    "hospitalId": "apollo-hospital-new-delhi",
+    "specialization": "Cardiology",
+    "qualification": "MBBS, MD/MS (Placeholder)",
+    "experience": "15+ years",
+    "image": "assets/images/doctor/doctor2.jpg",
+    "languages": [
+      "English",
+      "Hindi"
+    ]
+  },
+  {
+    "id": "doc_008",
+    "name": "Dr. Neerav Goyal",
+    "departmentId": "dept_new",
+    "hospitalId": "apollo-hospital-new-delhi",
+    "specialization": "Liver Transplant",
+    "qualification": "MBBS, MD/MS (Placeholder)",
+    "experience": "15+ years",
+    "image": "assets/images/doctor/doctor3.jpg",
+    "languages": [
+      "English",
+      "Hindi"
+    ]
+  },
+  {
+    "id": "doc_009",
+    "name": "Dr. V. K. Jain",
+    "departmentId": "dept_new",
+    "hospitalId": "apollo-hospital-new-delhi",
+    "specialization": "Neurosurgery",
+    "qualification": "MBBS, MD/MS (Placeholder)",
+    "experience": "15+ years",
+    "image": "assets/images/doctor/doctor4.jpg",
+    "languages": [
+      "English",
+      "Hindi"
+    ]
+  },
+  {
+    "id": "doc_010",
+    "name": "Dr. Rajesh Malhotra",
+    "departmentId": "dept_new",
+    "hospitalId": "apollo-hospital-new-delhi",
+    "specialization": "Orthopaedics",
+    "qualification": "MBBS, MD/MS (Placeholder)",
+    "experience": "15+ years",
+    "image": "assets/images/doctor/doctor5.jpg",
+    "languages": [
+      "English",
+      "Hindi"
+    ]
+  },
+  {
+    "id": "doc_011",
+    "name": "Dr. Harit Chaturvedi",
+    "departmentId": "dept_new",
+    "hospitalId": "apollo-hospital-new-delhi",
+    "specialization": "Oncology",
+    "qualification": "MBBS, MD/MS (Placeholder)",
+    "experience": "15+ years",
+    "image": "assets/images/doctor/doctor6.jpg",
+    "languages": [
+      "English",
+      "Hindi"
+    ]
+  },
+  {
+    "id": "doc_012",
+    "name": "Dr. Randhir Sud",
+    "departmentId": "dept_new",
+    "hospitalId": "apollo-hospital-new-delhi",
+    "specialization": "Gastroenterology",
+    "qualification": "MBBS, MD/MS (Placeholder)",
+    "experience": "15+ years",
+    "image": "assets/images/doctor/doctor1.jpg",
+    "languages": [
+      "English",
+      "Hindi"
+    ]
+  },
+  {
+    "id": "doc_013",
+    "name": "Dr. Sanjay Kumar Agarwal",
+    "departmentId": "dept_new",
+    "hospitalId": "apollo-hospital-new-delhi",
+    "specialization": "Nephrology",
+    "qualification": "MBBS, MD/MS (Placeholder)",
+    "experience": "15+ years",
+    "image": "assets/images/doctor/doctor2.jpg",
+    "languages": [
+      "English",
+      "Hindi"
+    ]
+  },
+  {
+    "id": "doc_014",
+    "name": "Dr. Viny Kantroo",
+    "departmentId": "dept_new",
+    "hospitalId": "apollo-hospital-new-delhi",
+    "specialization": "Pulmonology",
+    "qualification": "MBBS, MD/MS (Placeholder)",
+    "experience": "15+ years",
+    "image": "assets/images/doctor/doctor3.jpg",
+    "languages": [
+      "English",
+      "Hindi"
+    ]
+  },
+  {
+    "id": "doc_015",
+    "name": "Dr. R. K. Seth",
+    "departmentId": "dept_new",
+    "hospitalId": "apollo-hospital-new-delhi",
+    "specialization": "Plastic Surgery",
+    "qualification": "MBBS, MD/MS (Placeholder)",
+    "experience": "15+ years",
+    "image": "assets/images/doctor/doctor4.jpg",
+    "languages": [
+      "English",
+      "Hindi"
+    ]
+  },
+  {
+    "id": "doc_016",
+    "name": "Dr. Naresh Trehan",
+    "departmentId": "dept_new",
+    "hospitalId": "medanta-hospital-gurugram",
+    "specialization": "Cardiac Surgery",
+    "qualification": "MBBS, MD/MS (Placeholder)",
+    "experience": "15+ years",
+    "image": "assets/images/doctor/doctor5.jpg",
+    "languages": [
+      "English",
+      "Hindi"
+    ]
+  },
+  {
+    "id": "doc_017",
+    "name": "Dr. Balbir Singh",
+    "departmentId": "dept_new",
+    "hospitalId": "medanta-hospital-gurugram",
+    "specialization": "Cardiology",
+    "qualification": "MBBS, MD/MS (Placeholder)",
+    "experience": "15+ years",
+    "image": "assets/images/doctor/doctor6.jpg",
+    "languages": [
+      "English",
+      "Hindi"
+    ]
+  },
+  {
+    "id": "doc_018",
+    "name": "Dr. Arvinder Singh Soin",
+    "departmentId": "dept_new",
+    "hospitalId": "medanta-hospital-gurugram",
+    "specialization": "Liver Transplant",
+    "qualification": "MBBS, MD/MS (Placeholder)",
+    "experience": "15+ years",
+    "image": "assets/images/doctor/doctor1.jpg",
+    "languages": [
+      "English",
+      "Hindi"
+    ]
+  },
+  {
+    "id": "doc_019",
+    "name": "Dr. Rajesh Ahlawat",
+    "departmentId": "dept_new",
+    "hospitalId": "medanta-hospital-gurugram",
+    "specialization": "Kidney Transplant & Urology",
+    "qualification": "MBBS, MD/MS (Placeholder)",
+    "experience": "15+ years",
+    "image": "assets/images/doctor/doctor2.jpg",
+    "languages": [
+      "English",
+      "Hindi"
+    ]
+  },
+  {
+    "id": "doc_020",
+    "name": "Dr. V. K. Jain",
+    "departmentId": "dept_new",
+    "hospitalId": "medanta-hospital-gurugram",
+    "specialization": "Neurosurgery",
+    "qualification": "MBBS, MD/MS (Placeholder)",
+    "experience": "15+ years",
+    "image": "assets/images/doctor/doctor3.jpg",
+    "languages": [
+      "English",
+      "Hindi"
+    ]
+  },
+  {
+    "id": "doc_021",
+    "name": "Dr. Ashok Rajgopal",
+    "departmentId": "dept_new",
+    "hospitalId": "medanta-hospital-gurugram",
+    "specialization": "Orthopaedics",
+    "qualification": "MBBS, MD/MS (Placeholder)",
+    "experience": "15+ years",
+    "image": "assets/images/doctor/doctor4.jpg",
+    "languages": [
+      "English",
+      "Hindi"
+    ]
+  },
+  {
+    "id": "doc_022",
+    "name": "Dr. Tejinder Kataria",
+    "departmentId": "dept_new",
+    "hospitalId": "medanta-hospital-gurugram",
+    "specialization": "Radiation Oncology",
+    "qualification": "MBBS, MD/MS (Placeholder)",
+    "experience": "15+ years",
+    "image": "assets/images/doctor/doctor5.jpg",
+    "languages": [
+      "English",
+      "Hindi"
+    ]
+  },
+  {
+    "id": "doc_023",
+    "name": "Dr. Randhir Sud",
+    "departmentId": "dept_new",
+    "hospitalId": "medanta-hospital-gurugram",
+    "specialization": "Gastroenterology",
+    "qualification": "MBBS, MD/MS (Placeholder)",
+    "experience": "15+ years",
+    "image": "assets/images/doctor/doctor6.jpg",
+    "languages": [
+      "English",
+      "Hindi"
+    ]
+  },
+  {
+    "id": "doc_024",
+    "name": "Dr. Praveen Chandra",
+    "departmentId": "dept_new",
+    "hospitalId": "fortis-memorial-research-institute-gurugram",
+    "specialization": "Cardiology",
+    "qualification": "MBBS, MD/MS (Placeholder)",
+    "experience": "15+ years",
+    "image": "assets/images/doctor/doctor1.jpg",
+    "languages": [
+      "English",
+      "Hindi"
+    ]
+  },
+  {
+    "id": "doc_025",
+    "name": "Dr. Z. S. Meharwal",
+    "departmentId": "dept_new",
+    "hospitalId": "fortis-memorial-research-institute-gurugram",
+    "specialization": "Cardiac Surgery",
+    "qualification": "MBBS, MD/MS (Placeholder)",
+    "experience": "15+ years",
+    "image": "assets/images/doctor/doctor2.jpg",
+    "languages": [
+      "English",
+      "Hindi"
+    ]
+  },
+  {
+    "id": "doc_026",
+    "name": "Dr. Vivek Vij",
+    "departmentId": "dept_new",
+    "hospitalId": "fortis-memorial-research-institute-gurugram",
+    "specialization": "Liver Transplant",
+    "qualification": "MBBS, MD/MS (Placeholder)",
+    "experience": "15+ years",
+    "image": "assets/images/doctor/doctor3.jpg",
+    "languages": [
+      "English",
+      "Hindi"
+    ]
+  },
+  {
+    "id": "doc_027",
+    "name": "Dr. Rahul Gupta",
+    "departmentId": "dept_new",
+    "hospitalId": "fortis-memorial-research-institute-gurugram",
+    "specialization": "Neurosurgery",
+    "qualification": "MBBS, MD/MS (Placeholder)",
+    "experience": "15+ years",
+    "image": "assets/images/doctor/doctor4.jpg",
+    "languages": [
+      "English",
+      "Hindi"
+    ]
+  },
+  {
+    "id": "doc_028",
+    "name": "Dr. Manoj Miglani",
+    "departmentId": "dept_new",
+    "hospitalId": "fortis-memorial-research-institute-gurugram",
+    "specialization": "Orthopaedics & Spine",
+    "qualification": "MBBS, MD/MS (Placeholder)",
+    "experience": "15+ years",
+    "image": "assets/images/doctor/doctor5.jpg",
+    "languages": [
+      "English",
+      "Hindi"
+    ]
+  },
+  {
+    "id": "doc_029",
+    "name": "Dr. Vinod Raina",
+    "departmentId": "dept_new",
+    "hospitalId": "fortis-memorial-research-institute-gurugram",
+    "specialization": "Medical Oncology",
+    "qualification": "MBBS, MD/MS (Placeholder)",
+    "experience": "15+ years",
+    "image": "assets/images/doctor/doctor6.jpg",
+    "languages": [
+      "English",
+      "Hindi"
+    ]
+  },
+  {
+    "id": "doc_030",
+    "name": "Dr. Anil Mandhani",
+    "departmentId": "dept_new",
+    "hospitalId": "fortis-memorial-research-institute-gurugram",
+    "specialization": "Kidney Transplant & Urology",
+    "qualification": "MBBS, MD/MS (Placeholder)",
+    "experience": "15+ years",
+    "image": "assets/images/doctor/doctor1.jpg",
+    "languages": [
+      "English",
+      "Hindi"
+    ]
+  },
+  {
+    "id": "doc_031",
+    "name": "Dr. Aditya Gupta",
+    "departmentId": "dept_new",
+    "hospitalId": "tab-1",
+    "specialization": "Neurosurgery",
+    "qualification": "MBBS, MD/MS (Placeholder)",
+    "experience": "15+ years",
+    "image": "assets/images/doctor/doctor2.jpg",
+    "languages": [
+      "English",
+      "Hindi"
+    ]
+  },
+  {
+    "id": "doc_032",
+    "name": "Dr. Viveka Kumar",
+    "departmentId": "dept_new",
+    "hospitalId": "tab-1",
+    "specialization": "Cardiology",
+    "qualification": "MBBS, MD/MS (Placeholder)",
+    "experience": "15+ years",
+    "image": "assets/images/doctor/doctor3.jpg",
+    "languages": [
+      "English",
+      "Hindi"
+    ]
+  },
+  {
+    "id": "doc_033",
+    "name": "Dr. Kulbhushan Singh Dagar",
+    "departmentId": "dept_new",
+    "hospitalId": "tab-1",
+    "specialization": "Cardiac Surgery",
+    "qualification": "MBBS, MD/MS (Placeholder)",
+    "experience": "15+ years",
+    "image": "assets/images/doctor/doctor4.jpg",
+    "languages": [
+      "English",
+      "Hindi"
+    ]
+  },
+  {
+    "id": "doc_034",
+    "name": "Dr. Subhash Jangid",
+    "departmentId": "dept_new",
+    "hospitalId": "tab-1",
+    "specialization": "Orthopaedics",
+    "qualification": "MBBS, MD/MS (Placeholder)",
+    "experience": "15+ years",
+    "image": "assets/images/doctor/doctor5.jpg",
+    "languages": [
+      "English",
+      "Hindi"
+    ]
+  },
+  {
+    "id": "doc_035",
+    "name": "Dr. Harit Chaturvedi",
+    "departmentId": "dept_new",
+    "hospitalId": "tab-1",
+    "specialization": "Oncology",
+    "qualification": "MBBS, MD/MS (Placeholder)",
+    "experience": "15+ years",
+    "image": "assets/images/doctor/doctor6.jpg",
+    "languages": [
+      "English",
+      "Hindi"
+    ]
+  },
+  {
+    "id": "doc_036",
+    "name": "Dr. Deepak Govil",
+    "departmentId": "dept_new",
+    "hospitalId": "tab-1",
+    "specialization": "Liver & GI Surgery",
+    "qualification": "MBBS, MD/MS (Placeholder)",
+    "experience": "15+ years",
+    "image": "assets/images/doctor/doctor1.jpg",
+    "languages": [
+      "English",
+      "Hindi"
+    ]
+  },
+  {
+    "id": "doc_037",
+    "name": "Dr. Anupam Bhargava",
+    "departmentId": "dept_new",
+    "hospitalId": "tab-1",
+    "specialization": "Kidney Transplant & Urology",
+    "qualification": "MBBS, MD/MS (Placeholder)",
+    "experience": "15+ years",
+    "image": "assets/images/doctor/doctor2.jpg",
+    "languages": [
+      "English",
+      "Hindi"
+    ]
+  },
+  {
+    "id": "doc_038",
+    "name": "Dr. T. S. Kler",
+    "departmentId": "dept_new",
+    "hospitalId": "tab-1",
+    "specialization": "Cardiology / Electrophysiology",
+    "qualification": "MBBS, MD/MS (Placeholder)",
+    "experience": "15+ years",
+    "image": "assets/images/doctor/doctor3.jpg",
+    "languages": [
+      "English",
+      "Hindi"
+    ]
+  },
+  {
+    "id": "doc_039",
+    "name": "Dr. Ajay Kumar",
+    "departmentId": "dept_new",
+    "hospitalId": "tab-1",
+    "specialization": "Gastroenterology & Hepatology",
+    "qualification": "MBBS, MD/MS (Placeholder)",
+    "experience": "15+ years",
+    "image": "assets/images/doctor/doctor4.jpg",
+    "languages": [
+      "English",
+      "Hindi"
+    ]
+  },
+  {
+    "id": "doc_040",
+    "name": "Dr. Rajiv Anand",
+    "departmentId": "dept_new",
+    "hospitalId": "tab-1",
+    "specialization": "Neurosciences",
+    "qualification": "MBBS, MD/MS (Placeholder)",
+    "experience": "15+ years",
+    "image": "assets/images/doctor/doctor5.jpg",
+    "languages": [
+      "English",
+      "Hindi"
+    ]
+  },
+  {
+    "id": "doc_041",
+    "name": "Dr. Devavrat Arya",
+    "departmentId": "dept_new",
+    "hospitalId": "tab-1",
+    "specialization": "Medical Oncology",
+    "qualification": "MBBS, MD/MS (Placeholder)",
+    "experience": "15+ years",
+    "image": "assets/images/doctor/doctor6.jpg",
+    "languages": [
+      "English",
+      "Hindi"
+    ]
+  },
+  {
+    "id": "doc_042",
+    "name": "Dr. Dharma Choudhary",
+    "departmentId": "dept_new",
+    "hospitalId": "tab-1",
+    "specialization": "Bone Marrow Transplant",
+    "qualification": "MBBS, MD/MS (Placeholder)",
+    "experience": "15+ years",
+    "image": "assets/images/doctor/doctor1.jpg",
+    "languages": [
+      "English",
+      "Hindi"
+    ]
+  },
+  {
+    "id": "doc_043",
+    "name": "Dr. Bhushan Nariani",
+    "departmentId": "dept_new",
+    "hospitalId": "tab-1",
+    "specialization": "Orthopaedics",
+    "qualification": "MBBS, MD/MS (Placeholder)",
+    "experience": "15+ years",
+    "image": "assets/images/doctor/doctor2.jpg",
+    "languages": [
+      "English",
+      "Hindi"
+    ]
+  },
+  {
+    "id": "doc_044",
+    "name": "Dr. Ajay Kumar Kriplani",
+    "departmentId": "dept_new",
+    "hospitalId": "tab-1",
+    "specialization": "GI & Minimal Access Surgery",
+    "qualification": "MBBS, MD/MS (Placeholder)",
+    "experience": "15+ years",
+    "image": "assets/images/doctor/doctor3.jpg",
+    "languages": [
+      "English",
+      "Hindi"
+    ]
   }
 ]

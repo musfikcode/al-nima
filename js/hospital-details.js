@@ -1,4 +1,5 @@
 let currentHospital = null;
+let hospitalDoctors = [];
 
 // Get hospital ID from URL
 function getHospitalId() {
@@ -24,6 +25,15 @@ async function loadHospitalDetails() {
         if (!currentHospital) {
             window.location.href = 'hospitals.html';
             return;
+        }
+
+        try {
+            const docResponse = await fetch('data/doctors.json');
+            const allDoctors = await docResponse.json();
+            hospitalDoctors = allDoctors.filter(d => d.hospitalId === hospitalId);
+        } catch (e) {
+            console.error('Error loading doctors:', e);
+            hospitalDoctors = [];
         }
         
         displayHospitalDetails();
@@ -55,6 +65,7 @@ function displayHospitalDetails() {
         ${renderAboutSection()}
         ${renderDepartmentsSection()}
         ${renderTeamSection()}
+        ${renderDoctorsSection()}
         ${renderInfrastructureSection()}
         ${renderFacilitiesSection()}
         ${renderCTASection()}
@@ -132,6 +143,25 @@ function renderTeamSection() {
         <div class="info-card">
             <h2 class="section-title">Team & Expertise</h2>
             ${paragraphs.map(text => `<p class="about-text">${text}</p>`).join('')}
+        </div>
+    `;
+}
+
+function renderDoctorsSection() {
+    if (!hospitalDoctors || hospitalDoctors.length === 0) return '';
+    
+    return `
+        <div class="info-card">
+            <h2 class="section-title">Our Specialists</h2>
+            <div class="doctors-grid" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 20px; margin-top: 20px;">
+                ${hospitalDoctors.map(doctor => `
+                    <div class="doctor-card" style="padding: 20px; border: 1px solid #e5e7eb; border-radius: 8px; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+                        <h4 style="margin-bottom: 5px; font-size: 18px; color: #1e2022; font-weight: 700;">${doctor.name}</h4>
+                        <p style="color: #00a8e8; font-weight: 600; margin-bottom: 15px; font-size: 14px;">${doctor.specialization}</p>
+                        <a href="appoinment.html" class="btn btn-sm" style="background: #e6f7ff; color: #00a8e8; padding: 8px 15px; border-radius: 4px; display: inline-block; font-size: 13px; font-weight: 600; text-decoration: none; transition: all 0.3s ease;">Book Appointment</a>
+                    </div>
+                `).join('')}
+            </div>
         </div>
     `;
 }

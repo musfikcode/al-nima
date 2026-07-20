@@ -106,11 +106,14 @@
     color: #00a8e8;
     padding: 15px 40px;
     font-weight: 600;
+    display: inline-block;
+    margin: 0 auto;
 }
 
 .cta-box .rts-btn:hover {
     background: #f0f0f0;
     transform: translateY(-2px);
+    color: #000 !important;
 }
 
 /* Sidebar Styling */
