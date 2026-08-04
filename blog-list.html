@@ -452,14 +452,18 @@
         <div class="mobile-menu-main">
             <nav class="nav-main mainmenu-nav mt--30">
                 <ul class="mainmenu metismenu" id="mobile-menu-active">
-                                        <li>
-                        <a href="/" class="main">Home</a>
-                    </li>
-                    
                     <li>
-                        <a href="service.html" class="main">Service</a>
+                        <a href="index.html" class="main">Home</a>
                     </li>
-
+                    <li>
+                        <a href="hospitals.html" class="main">Hospitals</a>
+                    </li>
+                    <li>
+                        <a href="services.html" class="main">Services</a>
+                    </li>
+                    <li>
+                        <a href="about.html" class="main">About</a>
+                    </li>
                     <li><a href="contactus.html" class="main">Contact</a></li>
                 </ul>
             </nav>
@@ -509,6 +513,7 @@
   function googleTranslateElementInit() {
     new google.translate.TranslateElement({
       pageLanguage: 'en',
+      includedLanguages: 'ar,fr',
       layout: google.translate.TranslateElement.InlineLayout.SIMPLE
     }, 'google_translate_element');
   }
